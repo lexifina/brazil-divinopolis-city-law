@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 238, DE 13 DE MARÇO DE 2024 Altera o art. 26 da Lei Complementar nº 07, de 28 de dezembro de 1991, que aprova o Código Tributário e Fiscal para o Município de Divinópolis e dá outras providências.
+O Presidente em exercício da Câmara Municipal de Divinópolis, Vereador Israel da Farmácia, nos termos do § 7º do art. 51 da Lei Orgânica Municipal, promulga a presente Lei Complementar:
