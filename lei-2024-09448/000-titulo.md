@@ -1,0 +1,3 @@
+# LEI Nº 9.448, DE 18 DE SETEMBRO DE 2024.
+Revoga a Lei nº 9.378, de 17 de abril de 2024, que estabelece normas para apresentação de projetos que gerem custos às pessoas naturais e/ou jurídicas no Município de Divinópolis e dá outras providências.
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito, sanciono a seguinte Lei:
