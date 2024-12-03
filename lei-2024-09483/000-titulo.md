@@ -1,0 +1,2 @@
+# LEI Nº 9.483, DE 29 DE NOVEMBRO DE 2024 Altera a Lei nº 3.917, de 28 de dezembro de 1995, que dispõe sobre a isenção quanto às despesas com funerais de doadores de órgãos corporais para fins de transplante médico e dá outras providências.
+O Presidente em exercício da Câmara Municipal de Divinópolis, Vereador Israel da Farmácia, nos termos do § 7º do art. 51 da Lei Orgânica Municipal, promulga a presente Lei:
