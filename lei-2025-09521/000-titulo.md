@@ -1,0 +1,2 @@
+# LEI Nº 9.521, DE 1° DE ABRIL DE 2025 Dispõe sobre a obrigatoriedade de autorização dos pais ou representantes legais para a realização de procedimentos abortivos em adolescentes nos hospitais e outros estabelecimentos da rede municipal de saúde e dá outras providências.
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito, sanciono a seguinte Lei:
