@@ -1,0 +1,2 @@
+# LEI Nº 9.533, DE 06 DE MAIO DE 2025 Dispõe sobre a autorização ao Executivo para celebrar parcerias para a instalação e o fornecimento gratuito de tomadas e/ou totens para o carregamento de celulares e/ou dispositivos móveis e também para o fornecimento de internet Wi-Fi - tecnologia de rede sem fio - no Terminal Rodoviário Joaquim Martins Lara, podendo ser estendidos a outros órgãos públicos do Município.
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito, sanciono a seguinte Lei:
