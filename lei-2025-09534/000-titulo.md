@@ -1,0 +1,2 @@
+# LEI Nº 9.534, DE 12 DE MAIO DE 2025 Determina, no Município de Divinópolis, que as unidades de saúde credenciadas no Sistema Único de Saúde - SUS, bem como as da rede privada, ofereçam leito separado para pessoas que gestaram natimorto e para gestantes com óbito fetal.
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito, sanciono a seguinte Lei:
