@@ -1,0 +1,2 @@
+# LEI Nº 9.535, DE 12 DE MAIO DE 2025 Autoriza o Poder Executivo a celebrar parceria com empresas provedoras de internet para a disponibilização gratuita de Wi-Fi em praças públicas, para uso do público bem como para uso em câmeras de segurança, mediante contrapartida publicitária, e dá outras providências.
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito, sanciono a seguinte Lei:
