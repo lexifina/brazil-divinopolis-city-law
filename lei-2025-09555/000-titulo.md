@@ -1,0 +1,2 @@
+# LEI Nº 9.555, DE 03 DE JULHO DE 2025 Autoriza o Poder Executivo a abrir na Secretaria Municipal de Saúde, o Crédito Adicional Suplementar no montante de R$ 16.278.368,30 (dezesseis milhões, duzentos e setenta e oito mil, trezentos e sessenta e oito reais e trinta centavos).
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito, sanciono a seguinte Lei:
