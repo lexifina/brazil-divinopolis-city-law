@@ -1,0 +1,2 @@
+# LEI Nº 9.577, DE 21 DE AGOSTO DE 2025 Autoriza o Poder Executivo a abrir na Secretaria Municipal de Saúde, o Crédito Adicional Suplementar no montante de R$ 20.512.977,48 (vinte milhões, quinhentos e doze mil, novecentos e setenta e sete reais e quarenta e oito centavos).
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito, sanciono a seguinte Lei:
