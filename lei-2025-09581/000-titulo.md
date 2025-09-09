@@ -1,0 +1,2 @@
+# LEI Nº 9.581, DE 1º DE SETEMBRO DE 2025 Altera a Lei nº 8.692/2019, que autoriza o Poder Executivo a alienar, por meio de doação com encargos, imóvel de propriedade do Município para Igreja Assembleia de Deus Primitiva Ministério de Divinópolis, no Bairro Nova Fortaleza, nesta cidade, e dá outras providências.
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito, sanciono a seguinte Lei:
