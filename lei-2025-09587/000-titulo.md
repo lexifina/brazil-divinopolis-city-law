@@ -1,0 +1,2 @@
+# LEI Nº 9.587, DE 09 DE SETEMBRO DE 2025 (Retificada) Altera a Lei n° 8.964, de 05 de janeiro de 2022, que dispõe sobre o Plano Plurianual de Governo do Município de Divinópolis, para o período de 2022 a 2025 - PPA, para a inclusão da ação "02.001.001.04.122.0002.2057 - CIMMVI - Consórcio Intermunicipal e Multifinalitário dos Municípios Vale do Itapecerica", totalizando o montante de R$ 141.967,21.
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito, sanciono a seguinte Lei:
