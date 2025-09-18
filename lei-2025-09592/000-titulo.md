@@ -1,0 +1,2 @@
+# LEI Nº 9.592, DE 15 DE SETEMBRO DE 2025 Altera a Lei nº 9.500, de 26 de dezembro de 2024, que dispõe sobre a organização e estrutura administrativa do Poder Executivo do Município de Divinópolis, fixa princípios, normas e diretrizes de gestão, estrutura órgãos, e atualiza o Anexo I, GH 2 a 8, da Lei nº 6.655, de 1º de novembro de 2007.
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito, sanciono a seguinte Lei:
