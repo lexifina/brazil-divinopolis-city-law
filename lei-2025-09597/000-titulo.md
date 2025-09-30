@@ -1,0 +1,2 @@
+# LEI Nº 9.597, DE 24 DE SETEMBRO DE 2025 Dispõe sobre a instalação e o fornecimento gratuito de tomadas e/ou totens exclusivos para o carregamento de cadeiras de rodas elétricas nos prédios públicos pertencentes à Câmara Municipal de Divinópolis e à Prefeitura Municipal de Divinópolis.
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito, sanciono a seguinte Lei:
