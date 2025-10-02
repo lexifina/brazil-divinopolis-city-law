@@ -1,0 +1,2 @@
+# LEI Nº 9.598, DE 24 DE SETEMBRO DE 2025 Autoriza o Poder Executivo a celebrar parceria com empresas para a instalação de bebedouros públicos com água potável em locais de prática de caminhada e em praças, mediante contrapartida publicitária, e dá outras providências.
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito, sanciono a seguinte Lei:
