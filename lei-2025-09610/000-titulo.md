@@ -1,0 +1,2 @@
+# LEI Nº 9.610, DE 15 DE OUTUBRO DE 2025 Acrescenta o § 5º ao art. 68 da Lei nº 8.298, de 3 de julho de 2017, que dispõe sobre a organização administrativa da Câmara Municipal de Divinópolis e estabelece o Plano de Cargos, Carreira, Vencimentos e Atribuições de seus Servidores.
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito, sanciono a seguinte Lei:
