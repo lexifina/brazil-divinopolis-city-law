@@ -1,0 +1,2 @@
+# LEI Nº 9.623, DE 31 DE OUTUBRO DE 2025 Dispõe sobre o reconhecimento da Festa do Divino Espírito Santo, Padroeiro de Divinópolis, e do tradicional Desfile Cívico-militar em comemoração ao aniversário da cidade como Patrimônio Cultural Imaterial do Município de Divinópolis.
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito, sanciono a seguinte Lei:
