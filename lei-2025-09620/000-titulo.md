@@ -1,0 +1,2 @@
+# LEI Nº 9.620, DE 30 OUTUBRO DE 2025 Garante direitos às crianças e aos adolescentes com Transtorno do Espectro Autista (TEA), Altas Habilidades/Superdotação, Transtorno de Déficit de Atenção e Hiperatividade (TDAH) ou outras atipicidades, no âmbito educacional do Município de Divinópolis, com foco no direito de portar e consumir alimentação própria durante o período escolar.
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito, sanciono a seguinte Lei:
