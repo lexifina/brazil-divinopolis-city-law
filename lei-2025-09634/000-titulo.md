@@ -1,0 +1,2 @@
+# LEI Nº 9.634, DE 17 DE NOVEMBRO DE 2025 Altera o § 1º do art. 2º, o art. 4º, e revoga o parágrafo único do art. 2º da Lei nº 8.438, de 25 de abril de 2018, que garante a inclusão dos portadores de visão monocular nos programas sociais do Município e reserva de vagas em concursos públicos, no âmbito do Município de Divinópolis.
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito, sanciono a seguinte Lei:
