@@ -1,0 +1,2 @@
+# LEI Nº 9.639, DE 17 DE DEZEMBRO DE 2025 Altera o § 1º do art. 28 e acrescenta o § 4º ao art. 28 da Lei nº 9.464, de 15 de outubro de 2024, que dispõe sobre os serviços de transporte individual de passageiros (táxi) no município de Divinópolis, e dá outras providências.
+O Presidente da Câmara Municipal de Divinópolis, Vereador Israel da Farmácia, nos termos do § 7º do art. 51 da Lei Orgânica Municipal, promulga a presente Lei:
