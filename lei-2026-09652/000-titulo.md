@@ -1,0 +1,2 @@
+# LEI Nº 9.652, DE 05 DE JANEIRO DE 2026 Altera a Lei nº 8.394/2017, que dispõe sobre a implantação de medidas de informação e proteção à gestante e parturiente contra a violência obstétrica na cidade de Divinópolis, normatiza a presença de Doulas durante o parto nas maternidades situadas no município e institui o Dia Municipal de Conscientização da Saúde da Mulher e dá outras providências.
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito, sanciono a seguinte Lei:
