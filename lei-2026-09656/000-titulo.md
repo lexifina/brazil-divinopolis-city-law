@@ -1,0 +1,2 @@
+# LEI Nº 9.656, DE 19 DE FEVEREIRO DE 2026 Autoriza o Poder Executivo a abrir na Secretaria Municipal de Saúde, o crédito adicional suplementar no montante de R$ 29.960.685,47 (vinte e nove milhões, novecentos e sessenta mil, seiscentos e oitenta e cinco reais e quarenta e sete centavos).
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito, sanciono a seguinte Lei:
