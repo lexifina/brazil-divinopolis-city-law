@@ -1,0 +1,2 @@
+# LEI Nº 9.658, DE 03 DE MARÇO DE 2026 Altera dispositivos da Lei nº 8.601, de 22 de maio de 2019, que dispõe sobre a aplicação de multa ao cidadão que for flagrado jogando lixo em logradouros públicos, aumentando o valor da penalidade e instituindo canal oficial para denúncias.
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito, sanciono a seguinte Lei:
