@@ -1,0 +1,2 @@
+# LEI Nº 9.660, DE 03 DE MARÇO DE 2026 Institui o Programa de Incentivo à Cidadania Ativa, no Município de Divinópolis, autorizando a concessão de recompensa, por denúncia que permita a identificação e responsabilização de autores de infrações contra o patrimônio público, o meio ambiente e a ordem pública.
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito, sanciono a seguinte Lei:
