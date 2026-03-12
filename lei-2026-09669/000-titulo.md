@@ -1,0 +1,2 @@
+# LEI Nº 9.669, DE 11 DE MARÇO DE 2026 Autoriza o Poder Executivo a abrir na Superintendência de Obras Públicas e Planejamento o crédito adicional suplementar no montante de R$ 17.924.838,38 (dezessete milhões, novecentos e vinte e quatro mil, oitocentos e trinta e oito reais e trinta e oito centavos).
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito, sanciono a seguinte Lei:
