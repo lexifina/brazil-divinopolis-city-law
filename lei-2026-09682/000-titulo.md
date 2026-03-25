@@ -1,0 +1,2 @@
+# LEI Nº 9.682, DE 23 DE MARÇO DE 2026 Autoriza o Município a instituir o Programa "Cuidando de Quem Cuida", visando promover ações de orientação e atenção às mães e famílias atípicas no Município de Divinópolis, e estabelece a Semana da Maternidade e Paternidade Atípica.
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito, sanciono a seguinte Lei:
