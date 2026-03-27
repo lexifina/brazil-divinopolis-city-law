@@ -1,0 +1,2 @@
+# LEI Nº 9.685, DE 26 DE MARÇO DE 2026 Altera a Lei nº 5.207, de 23 de novembro de 2001, que dispõe sobre a declaração de utilidade pública e dá outras providências, para estabelecer nova data de prestação de contas para as entidades declaradas de utilidade pública e acrescentar critérios para aquelas beneficiadas por emendas parlamentares.
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito, sanciono a seguinte Lei:
