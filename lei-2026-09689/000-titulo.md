@@ -1,0 +1,2 @@
+# LEI Nº 9.689, DE 1º DE ABRIL DE 2026 Dispõe sobre a proteção da lotação ou setor de trabalho de servidoras públicas submetidas a medidas protetivas nos Portais de Transparência dos Poderes Executivo e Legislativo do Município de Divinópolis e dá outras providências.
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeita, sanciono a seguinte Lei:
