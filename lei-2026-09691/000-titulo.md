@@ -1,0 +1,2 @@
+# LEI Nº 9.691, DE 1º DE ABRIL DE 2026 Dispõe sobre a obrigatoriedade de disponibilização de, pelo menos, uma unidade na versão impressa ou em tablet do cardápio em estabelecimentos comerciais no município de Divinópolis, quando optarem por oferecer aos consumidores cardápio na forma digital, e dá outras providências.
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeita, sanciono a seguinte Lei:
