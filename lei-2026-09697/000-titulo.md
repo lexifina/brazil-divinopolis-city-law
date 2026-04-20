@@ -1,0 +1,2 @@
+# LEI Nº 9.697, DE 15 DE ABRIL DE 2026 Autoriza o Poder Executivo a abrir na Secretaria Municipal de Saúde o crédito adicional suplementar no montante de R$ 19.717.317,61 (dezenove milhões, setecentos e dezessete mil, trezentos e dezessete reais e sessenta e um centavos).
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeita, sanciono a seguinte Lei:
