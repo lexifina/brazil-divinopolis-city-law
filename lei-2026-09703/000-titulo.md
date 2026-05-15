@@ -1,0 +1,2 @@
+# LEI Nº 9.703, DE 13 DE MAIO DE 2026 Dispõe sobre a aplicação de multa ao cidadão que impedir ou dificultar a passagem, o trânsito ou a operação de máquinas motoniveladoras ("patrol") ou qualquer outro equipamento utilizado para manutenção, patrolamento, alargamento ou reparos de vias públicas e dá outras providências.
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeita, sanciono a seguinte Lei:
