@@ -1,0 +1,2 @@
+# LEI Nº 9.702, DE 13 DE MAIO DE 2026 Dispõe sobre a permissão de substituição dos sinais sonoros convencionais por sinais musicais ou visuais adequados em instituições municipais de ensino e outros estabelecimentos, visando à inclusão de estudantes e pessoas com hipersensibilidade sensorial.
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeita, sanciono a seguinte Lei:
