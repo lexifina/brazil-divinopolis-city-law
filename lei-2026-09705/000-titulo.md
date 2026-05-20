@@ -1,0 +1,2 @@
+# LEI Nº 9.705, DE 18 DE MAIO DE 2026 Autoriza o Poder Executivo Municipal a adotar as providências necessárias para fomentar a adesão de hospitais privados e entidades filantrópicas ao Programa Federal "Agora Tem Especialistas", com o objetivo de ampliar o acesso da população aos serviços especializados do Sistema Único de Saúde (SUS).
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeita, sanciono a seguinte Lei:
