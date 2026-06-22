@@ -1,0 +1,2 @@
+# LEI Nº 9.719, DE 11 DE JUNHO DE 2026 Autoriza o Poder Executivo a abrir na Secretaria Municipal de Saúde o crédito adicional suplementar no montante de R$ 10.266.729,37 (dez milhões, duzentos e sessenta e seis mil, setecentos e vinte e nove reais e trinta e sete centavos).
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeita, sanciono a seguinte Lei:
