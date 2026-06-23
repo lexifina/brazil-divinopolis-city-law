@@ -1,0 +1,1 @@
+# LEI Nº 9.724, DE 18 DE JUNHO DE 2026 Autoriza o Poder Executivo a abrir na Secretaria Municipal de Educação o crédito especial no montante de R$ 6.030.000,00 (seis milhões e trinta mil reais) O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeita, sanciono a seguinte Lei:
