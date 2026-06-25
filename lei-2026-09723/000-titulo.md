@@ -1,0 +1,2 @@
+# LEI Nº 9.723, DE 18 DE JUNHO DE 2026 Altera o art. 2º da Lei nº 4.015, de 14 de agosto de 1996, que dispõe sobre o regime de adiantamento de numerário para realização de despesas de pequeno vulto, para fixar como limite de adiantamento o estabelecido na Lei Federal nº 14.133, de 1º de abril de 2021, Lei de Licitações e Contratos Administrativos.
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeita, sanciono a seguinte Lei:
