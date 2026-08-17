@@ -1,0 +1,2 @@
+# LEI Nº 9.739, DE 13 DE AGOSTO DE 2026 Autoriza o Poder Executivo a abrir na Superintendência de Obras Públicas e Planejamento o crédito adicional suplementar no montante de R$ 13.500.438,29 (treze milhões, quinhentos mil, quatrocentos e trinta e oito reais e vinte e nove centavos).
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeita, sanciono a seguinte Lei:
