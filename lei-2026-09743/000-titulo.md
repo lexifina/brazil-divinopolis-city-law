@@ -1,0 +1,2 @@
+# LEI Nº 9.743, DE 25 DE AGOSTO DE 2026 Altera a Lei nº 9.057, de 24 de junho de 2022, que autoriza o Município de Divinópolis a contratar com o Banco de Desenvolvimento de Minas Gerais S/A - BDMG, operações de crédito com outorga de garantia e dá outras providências, para autorizar a construção de reserva técnica, edifício anexo ao Museu Histórico de Divinópolis.
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeita, sanciono a seguinte Lei:
