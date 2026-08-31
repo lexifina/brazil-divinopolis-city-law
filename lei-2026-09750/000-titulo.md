@@ -1,0 +1,1 @@
+# LEI Nº 9.750, DE 27 DE AGOSTO DE 2026 Autoriza a dação de imóvel em pagamento pela execução de obras de construção civil que especifica O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeita, sanciono a seguinte Lei:
