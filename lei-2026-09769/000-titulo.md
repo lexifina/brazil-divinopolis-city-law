@@ -1,0 +1,2 @@
+# LEI Nº 9.769, DE 18 DE SETEMBRO DE 2026 Institui diretrizes para a Educação Cooperativista, Empreendedora e Financeira na Rede Municipal de Ensino de Divinópolis, disciplina a realização de feiras pedagógicas e a destinação dos recursos eventualmente arrecadados e revoga a Lei nº 9.365, de 4 de abril de 2024.
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeita, sanciono a seguinte Lei:
