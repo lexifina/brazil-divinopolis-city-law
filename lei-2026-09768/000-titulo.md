@@ -1,0 +1,1 @@
+# LEI Nº 9.768, DE 17 DE SETEMBRO DE 2026 Denomina "Antônio Colodino" o Ponto de Apoio à Saúde do Cacoco de Baixo, localizado neste Município O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeita, sanciono a seguinte Lei:
