@@ -1,0 +1,2 @@
+# LEI Nº 9.775, DE 24 DE SETEMBRO DE 2026 Altera a Lei nº 9.558, de 3 de julho de 2025, que dispõe sobre a criação do Programa Municipal de Aquisição de Alimentos - PAA no Município de Divinópolis, para estabelecer critérios de participação e aquisição, priorizar a agricultura familiar local, disciplinar fontes de financiamento e instituir o Grupo Gestor do PAA-DIV.
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeita, sanciono a seguinte Lei:
