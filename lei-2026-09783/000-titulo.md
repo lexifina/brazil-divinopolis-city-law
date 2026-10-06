@@ -1,0 +1,2 @@
+# LEI Nº 9.783, DE 05 DE OUTUBRO DE 2026 Altera o art. 4º da Lei nº 7.369, de 2011, que define o perímetro urbano do Município de Divinópolis e dá outras providências, para permitir o parcelamento da área incorporada ao perímetro urbano com lotes de área igual ou superior a 300,00 m 2 (trezentos metros quadrados).
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeita, sanciono a seguinte Lei:
