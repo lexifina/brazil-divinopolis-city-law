@@ -1,0 +1,2 @@
+# LEI Nº 9.786, DE 06 DE OUTUBRO DE 2026 Dispõe sobre a descaracterização e atribuição de novo zoneamento aos imóveis e à via coletora que menciona, nos termos da Lei nº 9.330, de 3 de janeiro de 2024, que dispõe sobre o uso e ocupação do solo no Município de Divinópolis.
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeita, sanciono a seguinte Lei:
