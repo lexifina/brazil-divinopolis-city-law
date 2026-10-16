@@ -1,0 +1,2 @@
+# LEI COMPLEMENTAR Nº 254, DE 14 DE OUTUBRO DE 2026 Altera a Lei Complementar nº 7, de 28 de dezembro de 1991 - Código Tributário e Fiscal do Município de Divinópolis, quanto às normas de cobrança do ISSQN, devido pelas sociedades uniprofissionais.
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeita Municipal, em seu nome, sanciono a seguinte Lei Complementar:
