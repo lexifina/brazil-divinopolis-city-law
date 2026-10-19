@@ -1,0 +1,2 @@
+# LEI Nº 9.792, DE 15 DE OUTUBRO DE 2026 Autoriza o Poder Executivo a abrir na Secretaria Municipal de Saúde o Crédito Adicional suplementar no montante de R$ 45.567.127,92 (quarenta e cinco milhões, quinhentos e sessenta e sete mil, cento e vinte e sete reais e noventa e dois centavos).
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeita, sanciono a seguinte Lei:
