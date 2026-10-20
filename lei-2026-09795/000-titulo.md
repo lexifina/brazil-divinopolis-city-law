@@ -1,0 +1,2 @@
+# LEI Nº 9.795, DE 16 DE OUTUBRO DE 2026 Altera a Lei nº 4.350, de 28 de maio de 1998, que dispõe sobre o transporte escolar no Município de Divinópolis, para tornar viável a substituição temporária dos veículos do transporte escolar em situações de indisponibilidade do uso dos veículos cadastrados e autorizados a realizar o transporte escolar no Município.
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeita, sanciono a seguinte Lei:
