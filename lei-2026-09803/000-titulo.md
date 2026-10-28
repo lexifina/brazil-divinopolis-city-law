@@ -1,0 +1,2 @@
+# LEI Nº 9.803, DE 26 DE OUTUBRO DE 2026 Autoriza a criação da Central Municipal de Curadoria e Apoio a Eventos Comunitários, destinada à aquisição, gestão, cessão e compartilhamento de bens móveis para apoio às Organizações da Sociedade Civil - OSCs e demais entidades autorizadas no município de Divinópolis.
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeita, sanciono a seguinte Lei:
