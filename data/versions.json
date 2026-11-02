@@ -1,0 +1,5079 @@
+{
+ "country": "BR-MG-DIVINOPOLIS",
+ "acts": [
+  {
+   "slug": "lei-organica",
+   "short": "LOM-Divinópolis",
+   "title": "Lei Orgânica do Município de Divinópolis",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/1865",
+   "versions": [
+    {
+     "from": "1998-05-26",
+     "units": 170,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/0,1998-05-26,1998-08-17:-8H_LhBBoRGeQdkAxeAOa8Ef8qE/",
+     "sha256": "4b0d61b516de9eb397242b2266d61f556759cdfb25b1db307cd18461b91a95ba"
+    },
+    {
+     "from": "1998-08-18",
+     "units": 170,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/658,1998-08-18,1998-09-28:uViRR4_0geR538iaMoaF0qYVQNE/",
+     "sha256": "e1371acdbc7712598bedb74abd8a10c4ab6fbd353f126cde6040a8bb5bf7b403"
+    },
+    {
+     "from": "1998-09-29",
+     "units": 170,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/659,1998-09-29,1999-11-29:MY9LOanIFMAQhpd5rowOPpbtY88/",
+     "sha256": "62b381c1929f892efa6c8eef88cb76156bc5ab07f8d0a12c66481ad0db7a584a"
+    },
+    {
+     "from": "1999-11-30",
+     "units": 170,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/660,1999-11-30,1999-12-13:reoM6G45nz7ff2fJ0AnG7W0hKAI/",
+     "sha256": "6eef469688be5c8e6de5eacfb78346f7ee0da2543b11d32d985f40846a143e6e"
+    },
+    {
+     "from": "1999-12-14",
+     "units": 170,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/661,1999-12-14,2000-12-04:_hO7fA1O93LzHkUmsGlDyM9Nzy0/",
+     "sha256": "47b2bbf05cac68b8b3ed8c9982b3ab2803a13f2ee55608b47d10750b25179989"
+    },
+    {
+     "from": "2000-12-05",
+     "units": 170,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/666,2000-12-05,2002-04-28:FlakvRNy1yioFlMcjOwvbo8Uhds/",
+     "sha256": "49c62328bff5eae7abdbeeeb7fa99ae675d2a2f95d48830c3b41a160f8db4e5c"
+    },
+    {
+     "from": "2002-04-29",
+     "units": 170,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/667,2002-04-29,2002-09-02:n4YEqi-Wl3VaOm9kbZQqID2bMig/",
+     "sha256": "56d7b6b6e079c1b89e6f3ce5bf45b105c0326d5f035d0342c7a19b7b452f9b68"
+    },
+    {
+     "from": "2002-04-29",
+     "units": 170,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/668,2002-04-29,2002-09-02:3FJXM4RayRSe2DLd3qmEMxOJyd4/",
+     "sha256": "480078501f2909e4aa27c90d6936c979108d8829b0d04def6ea141ff4035dcf2"
+    },
+    {
+     "from": "2002-09-03",
+     "units": 170,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/669,2002-09-03,2003-02-17:ud96ZQAmY-EINx-LtRbtAZYMKZs/",
+     "sha256": "2049e12880528ffd91ac0102a54a4a7d932cf526e9999b28daf3e901a21ddfab"
+    },
+    {
+     "from": "2003-02-18",
+     "units": 169,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/670,2003-02-18,2003-12-31:8BnwwrbfJ5dB6_X1GVVgoIXs3rs/",
+     "sha256": "bb7fbdf3ced0c640685f8192178651421fd4b07eed1edee7d2e511ff27590395"
+    },
+    {
+     "from": "2004-01-01",
+     "units": 170,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/671,2004-01-01,2004-06-14:l4m3hCZBAJ9ftRgUzh90H4Rxon0/",
+     "sha256": "523a79cae38d9501a7f4a31a062f23485fd175bd3e4fc7668f9a2b991e0ee18f"
+    },
+    {
+     "from": "2004-06-15",
+     "units": 170,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/672,2004-06-15,2006-11-08:EccIXLpFpgAHZbjX98kf2F2z6Io/",
+     "sha256": "7be94e3347a4bdbe834fc33ec4e4df85de17ad278d3a59575f8d63551c6f87b2"
+    },
+    {
+     "from": "2006-11-09",
+     "units": 170,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/673,2006-11-09,2008-12-31:7KjieyLfhehk3qzsS2Bnd-bU5n8/",
+     "sha256": "0969803e4fa138eb6256499fd31e481e02c5fe2468caa34bea2f1ca1f4368b67"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 170,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/674,2009-01-01,2009-03-09:52NFgUAGB4_Ls_V0mEDOJwbnTP4/",
+     "sha256": "41ec137e65d71e28a9806b2452d866ae6d44f8533d72913571c5c228a224c205"
+    },
+    {
+     "from": "2009-03-10",
+     "units": 170,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/675,2009-03-10,2009-08-17:x7IVCiYDKKYU18joJZLFHTnf3Kg/",
+     "sha256": "e043d1c3a919e3bd70116bcfd18b7f01670e6f63fd06e826817f13c69b716b10"
+    },
+    {
+     "from": "2009-08-18",
+     "units": 170,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/676,2009-08-18,2009-12-02:B7__UOYLJ6oqdH9qshNWAsSo9Xk/",
+     "sha256": "828eb386a5aeb4cc01e1fb04b63fd76d3821f3990aadf6ca613546127acb9cab"
+    },
+    {
+     "from": "2009-12-03",
+     "units": 170,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/677,2009-12-03,2010-12-22:mUBXvCjMyB4xQ6ZPuPQQsjMCi-g/",
+     "sha256": "7a5d01060d10db658eb3d1ca83bdf7946bebafed3011295d5091c70f9a410907"
+    },
+    {
+     "from": "2010-12-23",
+     "units": 170,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/679,2010-12-23,2011-03-21:qfhjDK00Ipg2rjfuoPwlm5KKhS8/",
+     "sha256": "ecbfe2c7d09808ceb4911f18fb1567ec108582ef7a4347cbb2a076217b504ce8"
+    },
+    {
+     "from": "2011-03-22",
+     "units": 170,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/680,2011-03-22,2011-05-25:RWbkyjgPRmcLg8lfsSweyvyXEEE/",
+     "sha256": "40e069a3df2de03a17b03ba04ec5828bd656fce58b309829dcc56b16be80bf96"
+    },
+    {
+     "from": "2011-05-26",
+     "units": 170,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/681,2011-05-26,2011-09-28:fPPEKieRRlGuPm97IleOXzGfakI/",
+     "sha256": "b7bb03b63d87816514870acc1b4ab16d0dbdaa7febd7fb182c133d7fa8f65c23"
+    },
+    {
+     "from": "2011-09-29",
+     "units": 170,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/682,2011-09-29,2014-02-19:EwsfjtYp-l4cGwQ8scyxJ8XSBCw/",
+     "sha256": "1a10a8224f3ba9875ce5b6437b24aaef9f04cee194684b8bdd8e5dd002700bc2"
+    },
+    {
+     "from": "2014-02-20",
+     "units": 170,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/683,2014-02-20,2014-03-24:IJCRsbgNHMYjbzYk6knvUukYvrk/",
+     "sha256": "0c32be131aeb58c9f2803914214c94cfddb581c0c589a78cc70e2d67376d4e05"
+    },
+    {
+     "from": "2014-03-25",
+     "units": 170,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/684,2014-03-25,2014-12-10:Hn6logcVN3fkGbj83vpHRxsiOTU/",
+     "sha256": "b2c1bead0459348ea8e6510958662aafc3a655d3315e0a71220f1f465aeb063f"
+    },
+    {
+     "from": "2014-12-11",
+     "units": 170,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/685,2014-12-11,2016-02-03:xr4braR1ZB8kA7dc7pneb5sIFv4/",
+     "sha256": "17389021d35edf671f5e184bce3f69839019acfbdeb92981ec70e66707ebfb83"
+    },
+    {
+     "from": "2016-02-04",
+     "units": 170,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/686,2016-02-04,2017-06-19:qmlEfTyxBt_ShyyjWKua33b86As/",
+     "sha256": "2415447ccb359f35be27d530a9590ef963b8f7ae5852575113b06c7b6bbfb30b"
+    },
+    {
+     "from": "2017-06-20",
+     "units": 171,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/688,2017-06-20,2018-06-13:_DsXthJDHawXVnQHAJpnO8sPEXo/",
+     "sha256": "79115c69c04fa1113a4cba0d6b8d9c8ed550f498e3d7fb2608610d7df336d496"
+    },
+    {
+     "from": "2018-06-14",
+     "units": 171,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/689,2018-06-14,2018-08-08:NcqCFQqDbzBiiQPtJduyuukF5FI/",
+     "sha256": "fd1bbb3a785c6b4f9a3c8ec8f464ff5298825bc14b06e7082bbb5ea490918e30"
+    },
+    {
+     "from": "2018-08-09",
+     "units": 171,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/690,2018-08-09,2018-09-17:kIwTWP9DggWckaomFA2zy7FHS5k/",
+     "sha256": "2dd7a630d2063f10833a893e81cc5db444b63225c44ef56d1da49a42a5270c29"
+    },
+    {
+     "from": "2018-09-18",
+     "units": 172,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/691,2018-09-18,2019-02-18:hFDLl5-CS-C6VZiF8g4y5HShJyQ/",
+     "sha256": "b2f2a41a6127e26e7b735c8c457bb629c1b963d133d9f9984263e783d3a0493a"
+    },
+    {
+     "from": "2019-02-19",
+     "units": 172,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/692,2019-02-19,2019-08-26:iz0m2oha4R8CLO8G7W8HvLvjJnE/",
+     "sha256": "dbb2a5abe0eec3ab7487abe144d3a8a3edd871ed3d55db480f385e5d208f2ae4"
+    },
+    {
+     "from": "2019-08-27",
+     "units": 172,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/693,2019-08-27,2020-08-18:4A7E1dxG4iU3c_MPAkR-1fKqv3Q/",
+     "sha256": "c2bf15f290d9dfd2261991d4e849b5d6c1bc784c004b02ae7c0c4f086ae2fe94"
+    },
+    {
+     "from": "2020-08-19",
+     "units": 172,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/694,2020-08-19,2020-09-22:IvkpX8L5r5fvm1JE_KYmfX9otgU/",
+     "sha256": "5a313011841e225e61d0d4780b33948d5b220eca42aab6c19d3bb08582c0fb09"
+    },
+    {
+     "from": "2020-09-23",
+     "units": 172,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/695,2020-09-23,2021-08-11:IdFfGYfPW9VHmSJrotThfMWh_J8/",
+     "sha256": "af194094b25bfe8608a1db4b0efbfea36e4a94ba3a1515155c353b84da2e8ce0"
+    },
+    {
+     "from": "2021-08-12",
+     "units": 172,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/696,2021-08-12,2022-04-25:ABwOcNIs5dtsTDWeQw74-AXKlr0/",
+     "sha256": "e873c4c70e9d55bd5d112224e27684aac0af2c0937494c26518bdf86e8454b8d"
+    },
+    {
+     "from": "2022-04-26",
+     "units": 172,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/697,2022-04-26,2023-06-05:hXmuG30qlRyZSf1DDYTA_CDm2og/",
+     "sha256": "630f530a6fba9bf0ef659ba6b38f4615b6c70aa850e43b46f23882e6ae5ff1ab"
+    },
+    {
+     "from": "2023-06-06",
+     "units": 172,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/ta/648/text/vigencia/698,2023-06-06,2026-03-16:7kJwlvnRQRoQIYXl48BnOCTR0DM/",
+     "sha256": "8871ff989e67498acfa37c0aba04c922b8b08ed2a56cc75ef2ac4499aef840a5"
+    },
+    {
+     "from": "2026-03-17",
+     "units": 172,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/norma/1865",
+     "sha256": "5bc04c4ad4829643c18f3cf6ec2b6e67217fc741abdcf80b6421402123d9e8b9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09803",
+   "short": "Lei 9803/2026",
+   "title": "Lei nº 9.803, de 26 de outubro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22430",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 11,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22430/lei_no_9803-2026_-_central_de_apoio_a_eventos_comunitarios_e_gestao_de_bens_moveis_para_oscs.pdf",
+     "sha256": "e98c5a87e6534751d2807b77d954d282db634c4d2f19835ebf59ae9e940a15d1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09802",
+   "short": "Lei 9802/2026",
+   "title": "Lei nº 9.802, de 26 de outubro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22429",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22429/lei_no_9802-2026_-_altera_zoneamento_lotes_no_bairro_rancho_alegre.pdf",
+     "sha256": "96991f5e86c9391118504989752762926af4f8fd7596c311d364c8b2ad83f2f9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09801",
+   "short": "Lei 9801/2026",
+   "title": "Lei nº 9.801, de 23 de outubro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22428",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22428/lei_no_9801-2026_-_declara_de_utilidade_publica_a_associacao_divinopolitana_de_apoio_ao_esporte-_adae.pdf",
+     "sha256": "f6fce683cb5b5fa4ec373add2eb5a165c078b8f9e7cb4aeb378a4233e9a3e4ce"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09800",
+   "short": "Lei 9800/2026",
+   "title": "Lei nº 9.800, de 23 de outubro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22419",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 27,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22419/lei_no_9800-2026-_estabelece_condicoes_e_requisitos_para_a_celebracao_de_transacao_como_meio_de_extincao_de_creditos_tributarios_e_nao_tributarios.pdf",
+     "sha256": "f652182fc567a97b805696e9f30df64e8ca48626290f9d1f4131f2177e2e22c8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09798",
+   "short": "Lei 9798/2026",
+   "title": "Lei nº 9.798, de 19 de outubro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22414",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 8,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22414/lei_no_9798-2026_-_programa_defesa_pessoal_para_mulheres.pdf",
+     "sha256": "10e6e04bc03cae7f2efb2af2059c425c85861f3c2186a2da37648d2ef1fdea8b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09797",
+   "short": "Lei 9797/2026",
+   "title": "Lei nº 9.797, de 19 de outubro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22413",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22413/lei_no_9797-2026_-_afetacao_area_publica_-_praca_b._jardim_candelaria.pdf",
+     "sha256": "1cac817949dee1bb368f19975971bf5f22762824445cfc8272991adfedad9423"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09796",
+   "short": "Lei 9796/2026",
+   "title": "Lei nº 9.796, de 19 de outubro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22412",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22412/lei_no_9796-2026_-_altera_zoneamento_imoveis_av._profa_maria_catarina_e_av_monte_libano.pdf",
+     "sha256": "793e437c51e79fa8dcdfc9b57ed54a4a34a9d3c4c5e22a0fb354b091be1a0a28"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09795",
+   "short": "Lei 9795/2026",
+   "title": "Lei nº 9.795, de 16 de outubro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22411",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22411/lei_no_9795-2026_-_altera_lei_4350-1998_-_substituicao_de_veiculo_escolar_em_casos_de_indisponibilidade.pdf",
+     "sha256": "f0211e3d7e6bec9e26afb0127321742e883fa13c06eca216ad67b0dd55cfebbb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09794",
+   "short": "Lei 9794/2026",
+   "title": "Lei nº 9.794, de 15 de outubro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22408",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22408/lei_no_9794-2026_-_denomina_unidade_basica_de_saude_-_b._vila_romana_-_lucas_rodrigues.pdf",
+     "sha256": "5b45b323b88b3c9456b2df0dfff07f9e324740fb10e73ae8b1893d3b0770d65c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09793",
+   "short": "Lei 9793/2026",
+   "title": "Lei nº 9.793, de 15 de outubro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22407",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22407/lei_no_9793-2026_-_reserva_de_assentos_especiais_para_pessoas_obesas.pdf",
+     "sha256": "bab2fec8fcc6fff62ad363262741517268b3bd1e5fb9601fb5c9fdb1fc47cdb7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09792",
+   "short": "Lei 9792/2026",
+   "title": "Lei nº 9.792, de 15 de outubro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22406",
+   "versions": [
+    {
+     "from": "2026-10-19",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22406/lei_no_9792-2026_-_credito_adicional_semusa.pdf",
+     "sha256": "1f60cd9a23684534b73bf327abb49f07748d182d8062b410476f1ea38e24dd70"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00254",
+   "short": "LC 254/2026",
+   "title": "Lei Complementar nº 254, de 14 de outubro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22403",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22403/lei_complementar_no_254-2026.pdf",
+     "sha256": "12b5a711a5a89bd067e1e42c242c37fb11ed313339a9ad40fccb029bac148bfa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09791",
+   "short": "Lei 9791/2026",
+   "title": "Lei nº 9.791, de 7 de outubro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22378",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 7,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22378/lei_no_9791-2026_-_comprovacao_da_origem_dos_materiais_reciclaveis_em_cobre.pdf",
+     "sha256": "9c78c648978bf1263466bdfea3f4f63d91b13c29ffad854f43ad0280111eaac8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09790",
+   "short": "Lei 9790/2026",
+   "title": "Lei nº 9.790, de 6 de outubro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22376",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22376/lei_no_9790-2026_-_revoga_lei_9737_-_doacao_imovel_engeplast_1.pdf",
+     "sha256": "ed664fa422997dc2282bd51205d5693f868e2076642044908d2b0fdf9f7a927b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09789",
+   "short": "Lei 9789/2026",
+   "title": "Lei nº 9.789, de 6 de outubro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22375",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22375/lei_no_9789-2026_-_revoga_lei_9096_-_permuta_supra_empreendimentos.pdf",
+     "sha256": "6681fb50c43a48c8ab9a549b6389d47481ceea620e53f3aabae3272d11ded5f6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09788",
+   "short": "Lei 9788/2026",
+   "title": "Lei nº 9.788, de 6 de outubro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22374",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22374/lei_no_9788-2026_-_denomina_jose_marra_centro_de_atendimento_pet.pdf",
+     "sha256": "aa28827323c64a3dfb87a1d5fac513829ad6531954fd44b4df46f3ff6aa99a15"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09787",
+   "short": "Lei 9787/2026",
+   "title": "Lei nº 9.787, de 6 de outubro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22373",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 12,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22373/lei_no_9787-2026_-_guia_digital_gastronomico_entreterimento_e_turismo.pdf",
+     "sha256": "060294299a5b771940d603c4ee0931c64eac345c034fda71180b6d9b55100afb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09786",
+   "short": "Lei 9786/2026",
+   "title": "Lei nº 9.786, de 6 de outubro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22377",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22377/lei_no_9786-2026_-_descaracterizacao_e_atribuicao_de_novo_zoneamento.pdf",
+     "sha256": "69a179e0f8867b4dfc3647cd31f1252f8ba11bf9942b4d5963a1ec9c8e5f051a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09785",
+   "short": "Lei 9785/2026",
+   "title": "Lei nº 9.785, de 5 de outubro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22369",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 7,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22369/lei9785.pdf",
+     "sha256": "b5195b4df8de8f714b11a861c27c6970da12fc87fc1c7b2b91aab0e27c0bd329"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09784",
+   "short": "Lei 9784/2026",
+   "title": "Lei nº 9.784, de 5 de outubro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22368",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22368/lei_no_9784-2026_-_doacao_de_bens_moveis_da_camara_para_prefeitura_1.pdf",
+     "sha256": "24b1e1d816d8c0064dc1424eb4aad7c3e31c8709c9bb9abd201c7f669018b21d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09783",
+   "short": "Lei 9783/2026",
+   "title": "Lei nº 9.783, de 5 de outubro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22367",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22367/lei_no_9783-2026_-_altera_lei_7396-2011_perimetro_urbano_1.pdf",
+     "sha256": "75d4ddde4fac0445d16e0cebd62f3245fa43a5b56c949b3d243903453bb501d2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09782",
+   "short": "Lei 9782/2026",
+   "title": "Lei nº 9.782, de 5 de outubro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22366",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22366/lei_no_9782-2026_-_altera_lei_9133-2022_semana_do_hip_hop_1.pdf",
+     "sha256": "8ba9d769629a4d62ce7edfdb725cdd4ea37cc51ca21185cc5e88db27dd42d666"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09781",
+   "short": "Lei 9781/2026",
+   "title": "Lei nº 9.781, de 1 de outubro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22356",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22356/lei9781.pdf",
+     "sha256": "ed5b613332a6180511042557cd3d42492094e0faaefe2e4329f60b7b18bc22e2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09780",
+   "short": "Lei 9780/2026",
+   "title": "Lei nº 9.780, de 30 de setembro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22365",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 7,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22365/lei_no_9780-2026_-_faltometro_-_acompanhamento_faltas_em_consultas_na_rede_de_saude-copia-impressao.pdf",
+     "sha256": "88e1ee49f8ffba33369050183be40c9d17b2b7e7054d740a0d748cea514165ac"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09779",
+   "short": "Lei 9779/2026",
+   "title": "Lei nº 9.779, de 30 de setembro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22364",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22364/lei_no_9779-2026_-_revoga_lei_9736-2026_doacao_onerosa_imovel_diviarmas.pdf",
+     "sha256": "466845e45e279ec028e380af1dc8604b2ee8266e6993416a6ac9cbf7af64d786"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09778",
+   "short": "Lei 9778/2026",
+   "title": "Lei nº 9.778, de 30 de setembro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22363",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 6,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22363/lei_no_9778-2026_-_desafeta_e_autoriza_nesga_no_b._jardim_capitao_silva.pdf",
+     "sha256": "14dff166389ff90523b0da1c4bb1a50f465d725c725a3169f62d9f523872061f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09777",
+   "short": "Lei 9777/2026",
+   "title": "Lei nº 9.777, de 29 de setembro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22362",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 7,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22362/lei_no_9777-2026_-_pontos_de_apoio_a_trabalhadores_de_entrega_e_transporte_de_individual_de_pessoas.pdf",
+     "sha256": "9b9dc993712822bb3d867fcf2061dec243cd5ee6a87d39df46f7e5fe4048ac78"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09776",
+   "short": "Lei 9776/2026",
+   "title": "Lei nº 9.776, de 25 de setembro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22344",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 11,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22344/lei9776.pdf",
+     "sha256": "ca90125f706c31697a186d8382c146da58379c881fb2232cb2d191ad8d3dd67e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09775",
+   "short": "Lei 9775/2026",
+   "title": "Lei nº 9.775, de 24 de setembro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22346",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 7,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22346/lei_no_9775-2026_-_altera_lei_9558-2025_-_programa_aquisicao_de_alimentos.pdf",
+     "sha256": "d2789e7098e12ebd8ea18f7ebe2a82162e456fda390ca9f199fec848f87b220a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09774",
+   "short": "Lei 9774/2026",
+   "title": "Lei nº 9.774, de 24 de setembro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22345",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22345/lei_no_9774-2026_-_afixacao_de_cartaz_sobre_violencia_e_ameaca_contra_segurancas.pdf",
+     "sha256": "ad606eb988ab58d82b2448fbee2c303ec2f59e77c26e3dff926187bd006b96ca"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09773",
+   "short": "Lei 9773/2026",
+   "title": "Lei nº 9.773, de 21 de setembro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22343",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22343/lei_no_9773-2026_-_denomina_rua_-_comunidade_rural_de_amadeu_lacerda_-_joao_jose-copia-impressao.pdf",
+     "sha256": "03c6abd498e9f4834ce4e67eabcc6cd323ea778ad9aa69557fc5d0d87f088190"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09772",
+   "short": "Lei 9772/2026",
+   "title": "Lei nº 9.772, de 21 de setembro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22342",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22342/lei_no_9772-2026_-_denomina_praca_b._jardim_candelaria_-_sargento_altamir-copia-impressao.pdf",
+     "sha256": "d49d12bfe9a8160428cfecf6d8c3c4cdd7e62a92ad3c9693d02088b086f3b2e2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09771",
+   "short": "Lei 9771/2026",
+   "title": "Lei nº 9.771, de 21 de setembro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22341",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22341/lei_no_9771-2026_-_regulamenta_uso_e_ocupacao_do_solo_-_quadra_3_zona_17-copia-impressao.pdf",
+     "sha256": "c4bc985ec9064906597ee44035de36820f636cff5433a0ad2e387bedd2e7e9bb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09770",
+   "short": "Lei 9770/2026",
+   "title": "Lei nº 9.770, de 21 de setembro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22340",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22340/lei_no_9770-2026_-_extincao_do_consorcio_mullheres_das_gerais.pdf",
+     "sha256": "b4e8dd1ce090d93cd6d2d6446ed931e9f7b1380429cc45ff14f7798029ff1a9c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09769",
+   "short": "Lei 9769/2026",
+   "title": "Lei nº 9.769, de 18 de setembro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22327",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 14,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22327/lei_no_9769-2026_-_educacao_empreendedora_e_financeira_na_rede_municipal_de_ensino.pdf",
+     "sha256": "e33526c21a9092a3e4e501eb17cae0c77df7043a70363b2863d0bebe9577e9dc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09768",
+   "short": "Lei 9768/2026",
+   "title": "Lei nº 9.768, de 17 de setembro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22326",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22326/lei_no_9768-2026_-_denomina_ponto_de_apoio_a_saude_cacoco_de_baixo_-_antonio_colodino.pdf",
+     "sha256": "93fd710e67372c0c3807bf300081bd6e5af6522b047c0aba1beafcd6f8d4bb30"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09767",
+   "short": "Lei 9767/2026",
+   "title": "Lei nº 9.767, de 17 de setembro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22325",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22325/lei_no_9767-2026_-_declaracao_de_utilidade_publica_sest_senat.pdf",
+     "sha256": "c3607e3eace2f0d4111a99fc6dbe8b2f45e3b281583054cc039fc18dec5f3d50"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09766",
+   "short": "Lei 9766/2026",
+   "title": "Lei nº 9.766, de 11 de setembro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22324",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 20,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22324/lei9766.pdf",
+     "sha256": "e0a0b02f0a8aff8f51098a4d8589e09bac71657bc538e52b5445a716de8f4559"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09765",
+   "short": "Lei 9765/2026",
+   "title": "Lei nº 9.765, de 11 de setembro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22318",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 20,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22318/lei9765.pdf",
+     "sha256": "45e25cec2ca22d83d4bf27464f163a1bc5e5012badb04eb632e5092ba32c0d76"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09764",
+   "short": "Lei 9764/2026",
+   "title": "Lei nº 9.764, de 11 de setembro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22317",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 11,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22317/lei9764.pdf",
+     "sha256": "a98eae60975f6e815e1ef36ae4bc87f599bab67d444ffdfd8be4eda079f2446b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09763",
+   "short": "Lei 9763/2026",
+   "title": "Lei nº 9.763, de 11 de setembro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22316",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 11,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22316/lei9763.pdf",
+     "sha256": "6a7fa63dd2ca11ac42d5bdbe9684d0923826ef3b9d09f258d7875887ca566a89"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09762",
+   "short": "Lei 9762/2026",
+   "title": "Lei nº 9.762, de 11 de setembro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22315",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 18,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22315/lei9762.pdf",
+     "sha256": "b3db21da170b6251f35161aad0bb6dd12975a1a391ceae18355568dcc322a0d5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09761",
+   "short": "Lei 9761/2026",
+   "title": "Lei nº 9.761, de 10 de setembro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22312",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22312/lei_no_9761-2026_-_declaracao_de_utilidade_publica_inzo_mona_mujinda.pdf",
+     "sha256": "53db63c455caf8a2451233d66c752e310c233670777079dd8c6fe319c171123e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09760",
+   "short": "Lei 9760/2026",
+   "title": "Lei nº 9.760, de 10 de setembro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22311",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22311/lei_no_9760-2026_-_servidao_administrativa_implantacao_reservatorio_de_agua.pdf",
+     "sha256": "d50d9ba46e1e48318b17f63f2c6a0041deb51c2af4714c6009c1d181df7b9bac"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09759",
+   "short": "Lei 9759/2026",
+   "title": "Lei nº 9.759, de 10 de setembro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22310",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22310/lei_no_9759-2026_-_dia_do_complexo_de_saude_sao_joao_de_deus.pdf",
+     "sha256": "67ac8e8cc25903e0b02cdd13e2394ed7245f88d04fe6ad1aeb2c80df912a0780"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09758",
+   "short": "Lei 9758/2026",
+   "title": "Lei nº 9.758, de 8 de setembro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22298",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22298/lei_no_9758-2026_-_denominacao_de_rua_-_adriano_costa_gondim.pdf",
+     "sha256": "c5196bfce853c30cf2c389b49f878f263fc19fe50c01039e24498a052b420177"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09757",
+   "short": "Lei 9757/2026",
+   "title": "Lei nº 9.757, de 8 de setembro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22314",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 18,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22314/lei_no_9757-2026_-_stava_servico_de_transicao_assistada_vida_adulta.pdf",
+     "sha256": "9852e1b52d9e1478a941935fcfbfac50eea0475d249ba80f0cec054984def8d2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09756",
+   "short": "Lei 9756/2026",
+   "title": "Lei nº 9.756, de 8 de setembro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22297",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 6,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22297/lei_no_9756-2026_-_semana_da_patria.pdf",
+     "sha256": "7a69fd58d1748fd3452a388a3a60e5ac4afebff2f0cfc6f4188463d68c5d6ada"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09755",
+   "short": "Lei 9755/2026",
+   "title": "Lei nº 9.755, de 8 de setembro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22296",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 13,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22296/lei_no_9755-2026_-_programa_bercario_e_creche_em_tempo_integral-copia-impressao.pdf",
+     "sha256": "e1bac59143afa2811b0efaa0cc6295b00e7ea92de4eba7b242e646bdc88b5854"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09754",
+   "short": "Lei 9754/2026",
+   "title": "Lei nº 9.754, de 8 de setembro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22295",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22295/lei_no_9754-2026_-_denomina_rua_-_noe_delfino.pdf",
+     "sha256": "638930f1b08a3422e7efc2fa44b198c551d2566bab479a67852274b240676dcf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09752",
+   "short": "Lei 9752/2026",
+   "title": "Lei nº 9.752, de 2 de setembro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22284",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22284/lei_no_9752-2026_-_denonima_ubs_em_ermida_-_geraldo_correa_1.pdf",
+     "sha256": "7a8ebbfd9749360665b16d778bb5ebd264193446aed633ff21900fdd0f1a649e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09750",
+   "short": "Lei 9750/2026",
+   "title": "Lei nº 9.750, de 27 de agosto de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22254",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22254/lei_no_9750-2026_-_dacao_em_pagamento_-_sede_emop.pdf",
+     "sha256": "9e06bed69ba8ce574cd51037e1c1130f8392fa994eb50158b7161bfdaf0264e4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09748",
+   "short": "Lei 9748/2026",
+   "title": "Lei nº 9.748, de 27 de agosto de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22252",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22252/lei_no_9748-2026_-_denonima_posto_de_saude_-_robson_ferreira.pdf",
+     "sha256": "d8a3bd6f56d0e64466338fd65a244d0ba674a71c8b36e63eea6512bc50eaf40b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09747",
+   "short": "Lei 9747/2026",
+   "title": "Lei nº 9.747, de 25 de agosto de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22245",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 35,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22245/lei_no_9747-2026_-_regulamenta_bancas_de_jornais_e_revistas.pdf",
+     "sha256": "beec5b3c3feaee152036d1a73cdc4c37b544bc6b00ab9a828451794ab7ae9f62"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09746",
+   "short": "Lei 9746/2026",
+   "title": "Lei nº 9.746, de 25 de agosto de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22250",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22250/lei_no_9746-2026_-_bandas_filarmonicas_como_patrimonio_imaterial.pdf",
+     "sha256": "da3e59776f15c52ebb00aeeda3504d3c15782c1c770fdbde67b0ec6ed7d96e5b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09745",
+   "short": "Lei 9745/2026",
+   "title": "Lei nº 9.745, de 25 de agosto de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22249",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22249/lei_no_9745-2026_-_desafeta_e_alinea_imovel_b._antares_para_michelle_andreza.pdf",
+     "sha256": "8f7d2b9a7bfa7a1295a1a0d973b82b8e5798b5a55178e22030b508673216863d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09744",
+   "short": "Lei 9744/2026",
+   "title": "Lei nº 9.744, de 25 de agosto de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22248",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22248/lei_no_9744-2026_-_reversao_imovel_da_lei_4567-1999_1.pdf",
+     "sha256": "7a2a14941e9571dd86f97397af979de3dba7c42e9a322f8179e47809b63abb2d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09743",
+   "short": "Lei 9743/2026",
+   "title": "Lei nº 9.743, de 25 de agosto de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22247",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22247/lei_no_9743-2026_-_altera_lei_9057-2022_-_autoriza_contratar_bdmg_-_museu_historico.pdf",
+     "sha256": "f70a7e8fed536a2c8cb58fdefaeb3c5d7b15bce06426df1cc3ca4dfcbf074d49"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09742",
+   "short": "Lei 9742/2026",
+   "title": "Lei nº 9.742, de 21 de agosto de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22244",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 8,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22244/lei_no_9742-2026_-_apoio_as_pessoas_em_situacao_de_rua_a_retornar_a_sua_origem-copia-impressao.pdf",
+     "sha256": "2302135a9fd17ffbdada2ab497c20c90a1a49c5d015068445b400d2cd6da441c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09739",
+   "short": "Lei 9739/2026",
+   "title": "Lei nº 9.739, de 13 de agosto de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22224",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22224/lei_no_9739-2026_-_abertura_de_credito_setop-copia-impressao.pdf",
+     "sha256": "48d88be8960d4b372b1061c88580bdb0dc0c149b8616ae932d10a93b8a1ad7c6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09738",
+   "short": "Lei 9738/2026",
+   "title": "Lei nº 9.738, de 13 de agosto de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22225",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22225/lei_no_9738-2026_-_atribui_zoneamento_lotes_no_b._catalao-copia-impressao.pdf",
+     "sha256": "e9916f25492cf24f929f271c16f71eef0fad90832e6147938fddd804e183e562"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09737",
+   "short": "Lei 9737/2026",
+   "title": "Lei nº 9.737, de 15 de julho de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22157",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 11,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22157/lei9737-copia-impressao.pdf",
+     "sha256": "2253e391482a646fb3e2e7ea620c33506e9d87f3ebb5c00285952b5fe7a3ddce"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09736",
+   "short": "Lei 9736/2026",
+   "title": "Lei nº 9.736, de 13 de julho de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22153",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 11,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22153/lei9736.pdf",
+     "sha256": "796a8d5ac2c96e23d0e11b3738507d0e48310ae07e8ad829a4acfd9eeaefdafa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09735",
+   "short": "Lei 9735/2026",
+   "title": "Lei nº 9.735, de 13 de julho de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22152",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 9,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22152/lei9735.pdf",
+     "sha256": "e5f3e3485ae9ac241318dccbb46094cf29e847de926e2319af6168d5ce68c76b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09734",
+   "short": "Lei 9734/2026",
+   "title": "Lei nº 9.734, de 10 de julho de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22151",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 54,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22151/lei_no_9734-2026_-_ldo_completa-copia-impressao.pdf",
+     "sha256": "9874a0d48c07d366a1c250e48ddea3a46a8a438a93699edbaa59403d72e87e4f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00253",
+   "short": "LC 253/2026",
+   "title": "Lei Complementar nº 253, de 8 de julho de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22140",
+   "versions": [
+    {
+     "from": "2026-07-09",
+     "units": 117,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22140/lei_complementar_no_253-2026_-_reforma_da_previdencia-.pdf",
+     "sha256": "21cc41dc3925eb799b2b50540e96799c77318cdb9779e1ee0e93a476abec982c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09733",
+   "short": "Lei 9733/2026",
+   "title": "Lei nº 9.733, de 6 de julho de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22136",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22136/lei9733.pdf",
+     "sha256": "f3c8318def51dde0ffcbf360b61c4e0e03cf6ccd04fe75d4b18d84ff33881d64"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09732",
+   "short": "Lei 9732/2026",
+   "title": "Lei nº 9.732, de 26 de junho de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22122",
+   "versions": [
+    {
+     "from": "2026-07-03",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22122/lei_no_9732-2026_-_retificada_-_data_-_denomina_unidade_de_saude_-_jota_batista-copia-impressao.pdf",
+     "sha256": "21a520c8de9476e66c2d0a6d29e72f25315092b00fae2760d3ab9c70b7c57a51"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09731",
+   "short": "Lei 9731/2026",
+   "title": "Lei nº 9.731, de 26 de junho de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22103",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22103/lei_no_9731-2026_-_atribui_zoneamento_lote_no_b._realengo-copia-impressao.pdf",
+     "sha256": "680964ed49284526ff2aa128bdfb084d5f86af60ddb2eaba23d0cdce6a5c4d22"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09730",
+   "short": "Lei 9730/2026",
+   "title": "Lei nº 9.730, de 26 de junho de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22102",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22102/lei_no_9730-2026_-_atribui_zoneamento_-_lotes_b._jardim_primavera-copia-impressao.pdf",
+     "sha256": "6f921ce0a888ae62331d01e94bcdb8c629b455fdb60cfd78414f585a32f90e0b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09729",
+   "short": "Lei 9729/2026",
+   "title": "Lei nº 9.729, de 26 de junho de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22101",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22101/lei_no_9729-2026_-_atribui_zoneamento_-_lotes_no_lugar_bessas_e_corrego_do_almoco-copia-impressao.pdf",
+     "sha256": "0fc70896f29b309461307199acd9dc134afe9b3a0d576b2d4ae21c8bab253716"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09728",
+   "short": "Lei 9728/2026",
+   "title": "Lei nº 9.728, de 23 de junho de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22141",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 16,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22141/lei_no_9728-2026_-_calendario_corridas_de_rua_e_normas_de_realizacao-copia-impressao.pdf",
+     "sha256": "dee5881c357b23b7274b5b9e823baa324fe6b75afd0254d93452d8c7f4137534"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09727",
+   "short": "Lei 9727/2026",
+   "title": "Lei nº 9.727, de 23 de junho de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22092",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 8,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22092/lei_no_9727-2026_-_espaco_de_acolhimento_vitimas_de_violencia_nos_servicos_de_saude-copia-impressao.pdf",
+     "sha256": "0e2e42ef691fc161ec09e114936b30c535426f0fc1fe7539fa219f5e1884ed51"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09726",
+   "short": "Lei 9726/2026",
+   "title": "Lei nº 9.726, de 22 de junho de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22091",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22091/lei_no_9726-2026_-_declara_utilidade_publica_-_associacao_dos_motoclubes-copia-impressao.pdf",
+     "sha256": "679e91dded2f0653e7bc58207fbe9c877e71b7e6bbd768cc54521cef407982d7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09725",
+   "short": "Lei 9725/2026",
+   "title": "Lei nº 9.725, de 22 de junho de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22095",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22095/lei_no_9725-2026_-_declara_utilidade_publica_-_instituto_divicred-copia-impressao.pdf",
+     "sha256": "06d0d0bdfd9d3ec941db6044deb353011d283ee34397c988470f14be6f470099"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09724",
+   "short": "Lei 9724/2026",
+   "title": "Lei nº 9.724, de 18 de junho de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22084",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22084/via_assinada_-_lei_no_9724-2026_-_credito_adicional_semed-copia-impressao.pdf",
+     "sha256": "e1212df80224deb5ac18a10bd72788f444e679c5677e0c18e300fa4d8de7f069"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09723",
+   "short": "Lei 9723/2026",
+   "title": "Lei nº 9.723, de 18 de junho de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22090",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22090/lei_no_9723-2026_-_altera_l_4015-1996-copia-impressao.pdf",
+     "sha256": "99b692213d3c57a1b2ab8a862a2c546e9f593074266f48e489eae48f4d60009c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09721",
+   "short": "Lei 9721/2026",
+   "title": "Lei nº 9.721, de 16 de junho de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22068",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 9,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22068/lei_no_9721-2026_-_criacao_de_espacos_para_embarque_e_desembarque_de_passageiros_em_eventos_de_grande_porte-copia-impressao.pdf",
+     "sha256": "2c1a2be05b0c472446eff58482bb4e72e11fc3cca36397c595e6b0bcfc2c6b7f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09719",
+   "short": "Lei 9719/2026",
+   "title": "Lei nº 9.719, de 11 de junho de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22076",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22076/via_assinada_-_lei_no_9719-2026_-credito_adicional_semusa-copia-impressao.pdf",
+     "sha256": "ed3525ba266ad77e5ba7f9eabff71b0b89122cf61c5b743f3ec8ca309121fbfc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09718",
+   "short": "Lei 9718/2026",
+   "title": "Lei nº 9.718, de 11 de junho de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22056",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22056/lei_no_9718-2026_-_altera_zoneamento_distrito_industrial_s._ant._dos_campos-copia-impressao.pdf",
+     "sha256": "525f530514fdd6ba774eae6c99b7598a0050dd7235a30571a6efc98db6d8e6e4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09717",
+   "short": "Lei 9717/2026",
+   "title": "Lei nº 9.717, de 10 de junho de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22055",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 6,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22055/lei_no_9717-2026_-_descaraceriza_e_atribui_novo_zoneamento_nas_ruas_que_menciona-copia-impressao.pdf",
+     "sha256": "31a42106ee81b8e96a3bcc1711449bf5344854dd4861c537e141f1b276b36985"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09716",
+   "short": "Lei 9716/2026",
+   "title": "Lei nº 9.716, de 8 de junho de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22041",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 7,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22041/lei_no_9716-2026_-_fixacao_qr_code_para_acessos_aos_canaus_de_atendimento_online_e_ouvidoria-copia-impressao.pdf",
+     "sha256": "7af4f8fb45e5b2c28e48dedc56a51f0ca542f54803be90b53da3cd876c54e02f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09715",
+   "short": "Lei 9715/2026",
+   "title": "Lei nº 9.715, de 8 de junho de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22040",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22040/lei_no_9715-2026_-_zoneamento_parte_final_av._jk_e_r._elisa_pinto_e_rod_mg_050-copia-impressao.pdf",
+     "sha256": "a93f0f3174b776f02068c97108e292734f836ea66d1ee8695f2c420bf811cccf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09714",
+   "short": "Lei 9714/2026",
+   "title": "Lei nº 9.714, de 8 de junho de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22039",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22039/lei_no_9714-2026_-_ratifica_2a_alteracao_cimmvi_completa-copia-impressao.pdf",
+     "sha256": "0e24db2394fab5795c7a2ab1830bf89093d7304801e58fdef0225b8aaa69cb86"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09712",
+   "short": "Lei 9712/2026",
+   "title": "Lei nº 9.712, de 3 de junho de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22036",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 6,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22036/lei_no_9712-2026_-_dia_agricultura_familiar.pdf",
+     "sha256": "eef28d343afef0385b1a4d0823626fae3d0e031bf064a66f539d3f7e658fea2a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09711",
+   "short": "Lei 9711/2026",
+   "title": "Lei nº 9.711, de 3 de junho de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22035",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22035/lei_no_9711-2026_-_dia_produtor_rural.pdf",
+     "sha256": "761443b1e9c0a830d1a491c3f57c8dc7a1ee06c1162a40a61ef71edb80bb4405"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09709",
+   "short": "Lei 9709/2026",
+   "title": "Lei nº 9.709, de 28 de maio de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22023",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22023/lei_no_9709-2026_-_qr_code_nas_placas_de_obras_publicas_com_informacoes.pdf",
+     "sha256": "a3bc384111394f428a02e0997b1d2d3601774699bf85ca2504fd34e1f3a591a5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09708",
+   "short": "Lei 9708/2026",
+   "title": "Lei nº 9.708, de 19 de maio de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21993",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21993/lei_no_9708-2026_-_dia_do_gari.pdf",
+     "sha256": "b9243169b055683d46fc4f32e9f36efbf4300dbbb5c3c02adced32c39f8b7019"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09707",
+   "short": "Lei 9707/2026",
+   "title": "Lei nº 9.707, de 19 de maio de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/22002",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/22002/lei_no_9707-2026_-_abertura_de_credito_semed.pdf",
+     "sha256": "ada51d46c3fd793c2dca191f5843e95a481406d573bf5643890744b978b01afa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09706",
+   "short": "Lei 9706/2026",
+   "title": "Lei nº 9.706, de 18 de maio de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21992",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 7,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21992/lei_no_9706-2026_-_restituicao_em_cartoes_de_consumo_pre-pago.pdf",
+     "sha256": "cabd0ccdcfb534b8a44d11fe31c5d5e64774790b45623159093fd2b94c1ee209"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09705",
+   "short": "Lei 9705/2026",
+   "title": "Lei nº 9.705, de 18 de maio de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21991",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21991/lei_no_9705-2026_-_fomento_ao_programa_federal_agora_tem_especialistas.pdf",
+     "sha256": "a51609e8e1aeef5f5b910cb69c9bf92a8d74c435c2caecf3ee1bda3ee349a9e4"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00252",
+   "short": "LC 252/2026",
+   "title": "Lei Complementar nº 252, de 18 de maio de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21994",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21994/lei_complementar_no_252-2026.pdf",
+     "sha256": "dfe4c503f8b2550cde2c5f8b0a301ea004ca7b451b78e3f119d591d36355818d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09703",
+   "short": "Lei 9703/2026",
+   "title": "Lei nº 9.703, de 13 de maio de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21979",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 11,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21979/lei_no_9703-2026_-_multa_cidadao-_impedimento_de_patrol.pdf",
+     "sha256": "66eedb34d2365c2f3f575842692b9ad8a1cbcd57d3e34e08dec93f94c17d0efb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09702",
+   "short": "Lei 9702/2026",
+   "title": "Lei nº 9.702, de 13 de maio de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21978",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21978/lei_no_9702-2026_-_substituicao_sinais_sonoros_em_instituicoes_de_ensino.pdf",
+     "sha256": "0fdc0d1dd71f57db8102b59ba28d77d3b2fa4826e53884795e9d16ffa58d5df4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09701",
+   "short": "Lei 9701/2026",
+   "title": "Lei nº 9.701, de 4 de maio de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21962",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 8,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21962/lei_no_9701-2026_-_selo_sabores_de_divinopolis_-_produtos_das_agroindustrias_familiares.pdf",
+     "sha256": "99d6db0535231de04f02617fab27993034198ce46fe04851292fc2695d803502"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09699",
+   "short": "Lei 9699/2026",
+   "title": "Lei nº 9.699, de 28 de abril de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21948",
+   "versions": [
+    {
+     "from": "2026-05-01",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21948/lei_no_9699-2026_-_altera_l_9313-2023.pdf",
+     "sha256": "a778507ddc10a43b9558c39e1e0174cb1248e26797afa3298f127903a35a2191"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09697",
+   "short": "Lei 9697/2026",
+   "title": "Lei nº 9.697, de 15 de abril de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21922",
+   "versions": [
+    {
+     "from": "2026-04-20",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21922/lei_no_9697-2026_-_credito_adicional_semusa.pdf",
+     "sha256": "bf6008f575de90199f2febc8be9b85554cbeb863e7c6a2254974e8fc63a6b884"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-00251",
+   "short": "LC 251/2026",
+   "title": "Lei Complementar nº 251, de 13 de abril de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21897",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21897/lei_complementar_no_251-2026_retificada.pdf",
+     "sha256": "a3ba75611f5b375de3da896be68f36ad1bcf8bde008e81183b90bce368aafd1c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09696",
+   "short": "Lei 9696/2026",
+   "title": "Lei nº 9.696, de 7 de abril de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21878",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 9,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21878/extrato_de_publicacao-_lei_no_9696.pdf",
+     "sha256": "fbe9b8b2a42287b9a4de3928a837d2201b159511e215e09425060f8a14367859"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09695",
+   "short": "Lei 9695/2026",
+   "title": "Lei nº 9.695, de 7 de abril de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21877",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21877/lei_no_9695-2026_-_faixa_prefeital.pdf",
+     "sha256": "2a8cd2aa7ae7dd2ff317f16d08649309b0411efb81b4e32a80b3cb38aee2314c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09694",
+   "short": "Lei 9694/2026",
+   "title": "Lei nº 9.694, de 7 de abril de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21876",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 6,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21876/lei_no_9694-2026_-_semana_da_podologia.pdf",
+     "sha256": "609e84afb996200bc9118d071299c1e854469b46011c990fd189f8e6e3dff197"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09693",
+   "short": "Lei 9693/2026",
+   "title": "Lei nº 9.693, de 1 de abril de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21864",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21864/lei_no_9693-2026_-denomina_jose_alves_-_rua_24_b._golden_sul.pdf",
+     "sha256": "a794301b7e557ba67baebd843585a342dbdef0b206e75254d9e14d048633220f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09692",
+   "short": "Lei 9692/2026",
+   "title": "Lei nº 9.692, de 1 de abril de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21863",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21863/lei_no_9692-2026_-denomina_praca_no_b._n._senhora_conceicao_-_d._ivone.pdf",
+     "sha256": "7709924073af26968e09119a1ca20ed1004e14a4340c50fe6fb046f6ced5a11d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09691",
+   "short": "Lei 9691/2026",
+   "title": "Lei nº 9.691, de 1 de abril de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21862",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21862/lei_no_9691-2026_-cardapio_impresso.pdf",
+     "sha256": "a89bbf61fff5c6938fa91dfdf458e1c95fd1e8ddbc475b24ad9f71e2aaef6ba3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09690",
+   "short": "Lei 9690/2026",
+   "title": "Lei nº 9.690, de 1 de abril de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21861",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 7,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21861/lei_no_9690-2026_-local_de_entrega_de_mercadorias.pdf",
+     "sha256": "7d9145248253a03f4c1c599d50c78efcb76f9a810799b1565c8e3a9c1dfb6e76"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09689",
+   "short": "Lei 9689/2026",
+   "title": "Lei nº 9.689, de 1 de abril de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21860",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21860/lei_no_9689-2026_-protecao_da_lotacao.pdf",
+     "sha256": "c097d771220214df983054a64789d2104242891c4fe7ce97e63e10bfd8d0483a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09687",
+   "short": "Lei 9687/2026",
+   "title": "Lei nº 9.687, de 30 de março de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21847",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21847/lei_no_9687-2026_-credito_adicional_semusa.pdf",
+     "sha256": "050b7dda3278f90c5808131d56aa0579a647c5fff2d8cbdde10a543c87908380"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09686",
+   "short": "Lei 9686/2026",
+   "title": "Lei nº 9.686, de 26 de março de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21832",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21832/lei_no_9686-2026_-dia_dos_legendarios.pdf",
+     "sha256": "dc5d628eb9065be72340f94fa9728a6b72d24dc21c5a79dd3536b5fc458bee83"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09685",
+   "short": "Lei 9685/2026",
+   "title": "Lei nº 9.685, de 26 de março de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21831",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21831/lei_no_9685-2026_-_altera_l_5207-2001.pdf",
+     "sha256": "921e4653474e0a8b5698f790319a42cec4b25c0e283c104f1c47e9e0d92a79e0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09684",
+   "short": "Lei 9684/2026",
+   "title": "Lei nº 9.684, de 23 de março de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21822",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21822/lei_no_9684-2026_-_semana_da_fonoaudiologia.pdf",
+     "sha256": "8ad1ab0a2cbbf040bbce86a3f8709ddf024fcbc790c0b775713a9f273be34a2d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09683",
+   "short": "Lei 9683/2026",
+   "title": "Lei nº 9.683, de 23 de março de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21821",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 7,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21821/lei_no_9683-2026_-_semana_municipal_da_juventude_crista.pdf",
+     "sha256": "ff70579f06d2262a2f9d9e54fdb277b6c00414632e2c5317da64716d344d61a2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09682",
+   "short": "Lei 9682/2026",
+   "title": "Lei nº 9.682, de 23 de março de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21820",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 7,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21820/lei_no_9682-2026_-_programa_cuidando_de_quem_cuida_-_para_maes_e_familias_atipicas.pdf",
+     "sha256": "e7794c799946f3a0d1732656247ae8e423679b4b59fee175492d9596f6358c6f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09681",
+   "short": "Lei 9681/2026",
+   "title": "Lei nº 9.681, de 19 de março de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21812",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21812/lei_no_9681-2026_-_denominacao_de_rua_-_mussula_apolinario.pdf",
+     "sha256": "88d67d802a24c309963bd0f2bbea71c35431810c861ffc06c8be2b69f2639602"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09680",
+   "short": "Lei 9680/2026",
+   "title": "Lei nº 9.680, de 19 de março de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21811",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 6,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21811/lei_no_9680-2026_-_junho_verde_-_educacao_ambiental.pdf",
+     "sha256": "4909af017eaf69fca2ba74dfe528fd0ec8f0f161c5abfdebbf3e26fb64adf6d0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09679",
+   "short": "Lei 9679/2026",
+   "title": "Lei nº 9.679, de 19 de março de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21810",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21810/lei_no_9679-2026_-_semana_de_conscientizacao_e_incentivo_a_amamentacao.pdf",
+     "sha256": "4e7d1ff77dd3e3f7e84fefbdb43ee501fec6c948cf651528f3b766a9a5cb3e76"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09678",
+   "short": "Lei 9678/2026",
+   "title": "Lei nº 9.678, de 19 de março de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21809",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21809/lei_no_9678-2026_-_declaracao_de_utilidade_publica_-_agencia_desenvolvimento_novo_oeste.pdf",
+     "sha256": "f7fc93b92d541bf0c803aaafbc44db04cef876edba18626d321921f986176c29"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09677",
+   "short": "Lei 9677/2026",
+   "title": "Lei nº 9.677, de 19 de março de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21819",
+   "versions": [
+    {
+     "from": "2026-03-25",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21819/lei_no_9677-2026_-_regulamenta_parametros_urbanisticos_lotes_207_e_237_no_centro.pdf",
+     "sha256": "89300bad2492b05b6bd64463faae6dfd8da8319ed21602fc3af9e512d9d77481"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09676",
+   "short": "Lei 9676/2026",
+   "title": "Lei nº 9.676, de 19 de março de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21808",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21808/lei_no_9676-2026_-_desafeta_e_aliena_lote_b._santa_luzia_-_para_tranz_duarte.pdf",
+     "sha256": "3e2e1d7986b00049c91a74a4697482b5107c0b487d0bc71cd79c226c117f4aac"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09675",
+   "short": "Lei 9675/2026",
+   "title": "Lei nº 9.675, de 12 de março de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21788",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21788/lei_no_9675-2026_-_instituto_musa_de_divinopolis.pdf",
+     "sha256": "2391cd1692cbdccbb3c1dac574095dc2ad89aab12a7324a17d52704560b32a50"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09674",
+   "short": "Lei 9674/2026",
+   "title": "Lei nº 9.674, de 12 de março de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21787",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21787/lei_no_9674-2026_-_declaracao_de_utilidade_publica_associacao_olhares.pdf",
+     "sha256": "f8646e7384794aca5a99cb076ff070184b7eb9d0e54d2ea1bd2953b4644665b4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09673",
+   "short": "Lei 9673/2026",
+   "title": "Lei nº 9.673, de 12 de março de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21807",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21807/lei_no_9673-2026_-_pulseira_de_identificacao_pessoas_com_espectro_autista.pdf",
+     "sha256": "29a4d701c40199ca7822d3ff915b1e034399482dfea694cfd605d7aae7bc7b92"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09672",
+   "short": "Lei 9672/2026",
+   "title": "Lei nº 9.672, de 12 de março de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21786",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21786/lei_no_9672-2026_-_denomina_praca_-_julio_maria_pinto.pdf",
+     "sha256": "74f3e9d3cc2cbef206220f9dec9f2cbe01a34ce470f1b302bfde971b5e728865"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09670",
+   "short": "Lei 9670/2026",
+   "title": "Lei nº 9.670, de 12 de março de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21784",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21784/lei_no_9670-2026_-_alvorada_de_santo_antonio_e_s._sebastiao_como_patrimonio_imaterial.pdf",
+     "sha256": "d6c0431ed3859a13daf0475629391974194cf5435f889ce45ba7a8131294b3ba"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09669",
+   "short": "Lei 9669/2026",
+   "title": "Lei nº 9.669, de 11 de março de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21776",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21776/lei_no_9669-2026_-_credito_adicional_setop.pdf",
+     "sha256": "3d1e0034bcb5e11940c84b0bd4093e4f169a1981cbb5870fe13183ad57eb0bc1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09668",
+   "short": "Lei 9668/2026",
+   "title": "Lei nº 9.668, de 10 de março de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21775",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 9,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21775/lei_no_9668-2026_-_selo_empresa_sustentavel.pdf",
+     "sha256": "c2129f9a57a61dcb70ddf37d5f8374c38570a47a1c0a8ab9d6648ea48807a564"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09667",
+   "short": "Lei 9667/2026",
+   "title": "Lei nº 9.667, de 5 de março de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21761",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21761/lei_no_9667-2026_-_festa_carro_de_boi_patrimonio_imaterial.pdf",
+     "sha256": "5bd0909e197bca13e24c082c5c8373eb0db5f9a06acea33cac7ccbf8a0c8ef72"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09666",
+   "short": "Lei 9666/2026",
+   "title": "Lei nº 9.666, de 5 de março de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21760",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21760/lei_no_9666-2026_-_declaracao_de_utilidade_publica_afam.pdf",
+     "sha256": "ee45e8ab73a5901bb6ed25fed39cd2906b78e83ea83a34286e7492585bdca485"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09665",
+   "short": "Lei 9665/2026",
+   "title": "Lei nº 9.665, de 3 de março de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21753",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21753/lei_no_9665-2026_-_seresta_como_patrimonio_imaterial.pdf",
+     "sha256": "cdb7dfbdf28d7e0bf77458a36efb0bd3ce05ae4c21905277fbf1f734af6948a5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09664",
+   "short": "Lei 9664/2026",
+   "title": "Lei nº 9.664, de 3 de março de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21754",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21754/lei_no_9664-2026_-_denomina_praca_esportes_b._jardim_betania_-_antonio_lino.pdf",
+     "sha256": "ff57e6d94d4d01a9b72832a1e8901008daae3044c19368a8e5f8b2e2a31783e3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09663",
+   "short": "Lei 9663/2026",
+   "title": "Lei nº 9.663, de 3 de março de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21756",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21756/lei_no_9663-2026_-_declaracao_utilidade_publica_-_associacao_roca_mae_danda.pdf",
+     "sha256": "d36746990a9812daae4774e692712b1cfa93313ae35f1c5a9a3c94faa2923b0f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09662",
+   "short": "Lei 9662/2026",
+   "title": "Lei nº 9.662, de 3 de março de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21755",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21755/lei_no_9662-2026_-_denomina_complexto_esportivo_b._belo_vale_-_leonardo_antonio.pdf",
+     "sha256": "185719bfc6f1f812be8f87e8a1af1947d73ed141d0df9d8162321b4c71eeff54"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09661",
+   "short": "Lei 9661/2026",
+   "title": "Lei nº 9.661, de 3 de março de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21752",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21752/lei_no_9661-2026_-_institui_o_dia_cidade_das_historias.pdf",
+     "sha256": "28c2e68d9e615ab933575a51099d7b2933fa4ca881e40e492735c117616659bc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09660",
+   "short": "Lei 9660/2026",
+   "title": "Lei nº 9.660, de 3 de março de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21751",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 10,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21751/lei_no_9660-2026_-_cidadania_ativa_-_recompensa_denuncia_de_infracoes_patrimonio_publico.pdf",
+     "sha256": "c42c057462d7c23103c9dbc0ff87567cc641d1506d191350eaa28521dc9656ca"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09658",
+   "short": "Lei 9658/2026",
+   "title": "Lei nº 9.658, de 3 de março de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21749",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 6,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21749/lei_no_9658-2026_-_altera_l_8601-2019.pdf",
+     "sha256": "79230cfd29ccabf547a97316622aedc3c1289c54b7689240a3c2e323c587691c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09657",
+   "short": "Lei 9657/2026",
+   "title": "Lei nº 9.657, de 3 de março de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21748",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 9,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21748/lei_no_9657-2026_-_guarita_de_onibus_em_troca_de_espaco_publicitario.pdf",
+     "sha256": "ccfe6da101c8d79935662f64a7cb41c1dd279b1eb9cced71103e465fa41acc63"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09656",
+   "short": "Lei 9656/2026",
+   "title": "Lei nº 9.656, de 19 de fevereiro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21725",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21725/lei_no_9656-2026_-_credito_adicional_semusa.pdf",
+     "sha256": "7e388b2f6b4b1667a7e8b0d17724ccffd8b250f72c35d548d4097f40ec39c22f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09655",
+   "short": "Lei 9655/2026",
+   "title": "Lei nº 9.655, de 5 de fevereiro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21689",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 9,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21689/lei_no_9655-2026_-_praticas_de_valorizacao_produtores_culturais.pdf",
+     "sha256": "fd187eaf9b18e20a6cadf0462a385b1ae22e4ca04f6f68d3b90125d95d589fab"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09653",
+   "short": "Lei 9653/2026",
+   "title": "Lei nº 9.653, de 9 de janeiro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21631",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 7,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21631/lei9653.pdf",
+     "sha256": "afdac6a674e461c89f8f8233d421c5034ff41133ede5304adf8fae7ba19bb501"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-09652",
+   "short": "Lei 9652/2026",
+   "title": "Lei nº 9.652, de 5 de janeiro de 2026",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21620",
+   "versions": [
+    {
+     "from": "2026-01-07",
+     "units": 8,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2026/21620/lei_no_9652-2026_-_altera_l._8394-2017.pdf",
+     "sha256": "e472e1205bfbe88aa84c80c2560454a9260f4855728e9762729765ea49d5281e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09649",
+   "short": "Lei 9649/2025",
+   "title": "Lei nº 9.649, de 23 de dezembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21606",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 6,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21606/lei_no_9649-2025_-_ppa_2.pdf",
+     "sha256": "6b30ae528fd4523bc1fd012adae346d294c630fb331b34bf8293c57331861bd7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09647",
+   "short": "Lei 9647/2025",
+   "title": "Lei nº 9.647, de 17 de dezembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21583",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21583/lei_no_9647-2025_-_permuta_imoveis_-_unidade_de_saude_b._nova_fortaleza.pdf",
+     "sha256": "84638ecac7a5734ca38986719a3e790fd5dd8df1faf3056e9411f0e1a7563658"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09639",
+   "short": "Lei 9639/2025",
+   "title": "Lei nº 9.639, de 17 de dezembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21589",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21589/lei9639.pdf",
+     "sha256": "f5ba53b0975e068440c46fd77ad92eeb819b31313d2cff896148babdc21fd684"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09637",
+   "short": "Lei 9637/2025",
+   "title": "Lei nº 9.637, de 17 de dezembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21588",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21588/lei9637.pdf",
+     "sha256": "0305ca6f2b859b09d89576d23c9c5e9e7f7846322b3a8f37cec6c371f08b40bf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09646",
+   "short": "Lei 9646/2025",
+   "title": "Lei nº 9.646, de 15 de dezembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21582",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 10,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21582/lei_no_9646-2025_-_programa_recuperacao_de_nascentes.pdf",
+     "sha256": "8c0f1815dfecc68b4b66c88400fc2b13d7fae088ef1cb68921cd116dce956553"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09645",
+   "short": "Lei 9645/2025",
+   "title": "Lei nº 9.645, de 15 de dezembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21581",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 7,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21581/lei_no_9645-2025_-_doacao_de_imoveis_com_encargos_jlb_bobinas.pdf",
+     "sha256": "bc9d8ae49f3af2667df3de81bc5e0270282e8c99c500f3bc1fd28327affda9a7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09644",
+   "short": "Lei 9644/2025",
+   "title": "Lei nº 9.644, de 11 de dezembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21575",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21575/lei_no_9644-2025_-_doacao_bens_moveis_da_camara_para_prefeitura_1.pdf",
+     "sha256": "0c6f3db6b303954c015169057e94b675ab679b589df13fba5fc671fba807d262"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09643",
+   "short": "Lei 9643/2025",
+   "title": "Lei nº 9.643, de 11 de dezembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21574",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 7,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21574/lei_no_9643-2025_-_programa_divinopolis_sertanejo.pdf",
+     "sha256": "de2c0849e594641f5000e419f4ae5b831dad2ba81f846fed234ed4711823f018"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00250",
+   "short": "LC 250/2025",
+   "title": "Lei Complementar nº 250, de 9 de dezembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21561",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21561/lei_complementar_no_250_-_2025.pdf",
+     "sha256": "4e09763dfb41a7d10ba916dd957b218bae399027c6a3578960b634ecb53024f6"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00249",
+   "short": "LC 249/2025",
+   "title": "Lei Complementar nº 249, de 9 de dezembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21560",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21560/lei_complementar_no_249_-_2025.pdf",
+     "sha256": "2a38954acbd69aea56b4b82a95d2010446a912f34bfed2e8769675b37629da56"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09641",
+   "short": "Lei 9641/2025",
+   "title": "Lei nº 9.641, de 1 de dezembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21538",
+   "versions": [
+    {
+     "from": "2025-12-02",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21538/lei9641.pdf",
+     "sha256": "596c1f0012c5e580870ebb26e1297ac2ac8c308342fdb51e85afa3f113d36305"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09640",
+   "short": "Lei 9640/2025",
+   "title": "Lei nº 9.640, de 27 de novembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21523",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21523/lei_no_9640-2025_-_altera_lei_9500.pdf",
+     "sha256": "c74bc7083881e99d2066d16766f624494a29b15241b158cc6a88c3d7a3ee2de0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09638",
+   "short": "Lei 9638/2025",
+   "title": "Lei nº 9.638, de 25 de novembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21537",
+   "versions": [
+    {
+     "from": "2025-12-02",
+     "units": 8,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21537/lei_no_9638-2025_-_protecao_de_crianca_e_adolescente_no_ambiente_virtual.pdf",
+     "sha256": "e98a583bbc96a630611ff105e8a8cacc256e2be9c1323fbeae81cea2a6b4034a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09636",
+   "short": "Lei 9636/2025",
+   "title": "Lei nº 9.636, de 24 de novembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21522",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 29,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21522/lei_no_9636-2025_-_politica_de_ciencia_tecnologia_e_inovacao_e_smcti.pdf",
+     "sha256": "1ac355f8a7607bee5c5f0a2625734f36fae34ba1340bbd82ea5f1d14709bfd68"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09635",
+   "short": "Lei 9635/2025",
+   "title": "Lei nº 9.635, de 17 de novembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21518",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 9,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21518/lei_no_9635-2025_-autoriza_o_poder_executivo_a_firmar_parcerias_para_realizacao_de_obras_e_servicos_em_moradias_precarias_de_familias_em_situacao_de_vulnerabilidade_social.pdf",
+     "sha256": "e9e3d2c1e7cd4e402af2a0374186cf119226d950f42a5eb511eb8355296dddf9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09634",
+   "short": "Lei 9634/2025",
+   "title": "Lei nº 9.634, de 17 de novembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21517",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21517/lei_no_9634.2025_-_altera_a_lei_8.438_de_25_de_abril_de_2018..pdf",
+     "sha256": "6eaf0b9c6f2c6f21ae2f7fc1d7ebcfa919278a32c716b47f8d50d7cb8782677e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09633",
+   "short": "Lei 9633/2025",
+   "title": "Lei nº 9.633, de 17 de novembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21516",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21516/lei_no_9633.2025_-_declara_de_utilidade_publica_o_instituto_silvia_natalio.pdf",
+     "sha256": "b8cbe95be2a7d4a7d4d5d25ee00240e7df923b1b2a0a25e083abbaa34744fae6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09632",
+   "short": "Lei 9632/2025",
+   "title": "Lei nº 9.632, de 15 de novembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21515",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21515/lei_no_9632-2025_-_retificada_altera_lei_9486-2024.pdf",
+     "sha256": "932927b7e44f875cd6f729d8b31c2124623c5962f9e4c4abd461921a56a38230"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09631",
+   "short": "Lei 9631/2025",
+   "title": "Lei nº 9.631, de 14 de novembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21498",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21498/lei_no_9631-2025_-_estabelece_diretrizes_para_atribuicao_de_zoneamentos_2.pdf",
+     "sha256": "b2295528899f14a466ec2ee3645b5cd5376ab7d432a781f8a9661d400a4e1670"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09630",
+   "short": "Lei 9630/2025",
+   "title": "Lei nº 9.630, de 14 de novembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21514",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 9,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21514/lei_no_9630.2025_-_institui_a_politica_municipal_de_arborizacao_urbana_de_divinopolis.pdf",
+     "sha256": "543b7f41c97fa8da910479224b30f02e6ef846e3080576cb6d6f5a87971810db"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09629",
+   "short": "Lei 9629/2025",
+   "title": "Lei nº 9.629, de 14 de novembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21497",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 7,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21497/lei9629-lei.pdf",
+     "sha256": "55a5ccb480cbef307403bce32bc26a47a2613b264b6b48d5f744ad6fc594652a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09628",
+   "short": "Lei 9628/2025",
+   "title": "Lei nº 9.628, de 14 de novembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21477",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 7,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21477/lei_no_9628-2025_-retificado_-_autoriza_o_poder_executivo_municipal_a_realizar_a_outorga_de_escrituras_publicas-_alto_sao_vicente_1.pdf",
+     "sha256": "468e21d7e006aae549f15cb2efa4a99a6e134d1159d2e2d2d6829e43bd827385"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09627",
+   "short": "Lei 9627/2025",
+   "title": "Lei nº 9.627, de 14 de novembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21513",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21513/lei_no_9627.2025_-_retificada_altera_a_lei_no_6.907-_cod._de_posturas.pdf",
+     "sha256": "5fa7f93049ffb906036ebdebd0fc98f80717fcc4b9a6f06bce8bb9195464d97c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09626",
+   "short": "Lei 9626/2025",
+   "title": "Lei nº 9.626, de 8 de novembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21444",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21444/lei9626-lei.pdf",
+     "sha256": "6cbba6b6d59dbbc2f38f9e38a5fee7b466b9c1ee7bc60fe4b883b1171d02a582"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09619",
+   "short": "Lei 9619/2025",
+   "title": "Lei nº 9.619, de 6 de novembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21435",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 6,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21435/lei9619-lei.pdf",
+     "sha256": "07c870c920f6ff033d2c5ff934b447ec4b2aff15b72260bb11f86f3b69cb96e8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09625",
+   "short": "Lei 9625/2025",
+   "title": "Lei nº 9.625, de 31 de outubro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21443",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 6,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21443/lei9625-lei.pdf",
+     "sha256": "d49ff2314ef198264ae89aa854758e02188a9fad431db1e3f0ff1fe177046aa2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09624",
+   "short": "Lei 9624/2025",
+   "title": "Lei nº 9.624, de 31 de outubro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21440",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 7,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21440/lei9624-lei.pdf",
+     "sha256": "19154cef1fdf8e65c0666c45cd9e3e3b0f7a84de49ce1822b60bc5bfa9bfd3b3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09623",
+   "short": "Lei 9623/2025",
+   "title": "Lei nº 9.623, de 31 de outubro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21439",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21439/lei9623-lei.pdf",
+     "sha256": "0634638c0724095edc854c5d625396e9e9167051355c947baa3e9dfe914099d0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09622",
+   "short": "Lei 9622/2025",
+   "title": "Lei nº 9.622, de 30 de outubro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21438",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21438/lei9622-lei.pdf",
+     "sha256": "72cd32c887003b690c04607cf9648d01917b0c2e1403a51902dc2af39ba68840"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09621",
+   "short": "Lei 9621/2025",
+   "title": "Lei nº 9.621, de 30 de outubro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21437",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 7,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21437/lei9621-lei.pdf",
+     "sha256": "8e5d691fc70d1088cdd8ec2b4fcbbf5c476ed02767637738db2c8c72c65528c1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09620",
+   "short": "Lei 9620/2025",
+   "title": "Lei nº 9.620, de 30 de outubro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21436",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 6,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21436/lei9620-lei.pdf",
+     "sha256": "555db41c621491473a57e3e5cdf7b56bbbf4b9d36b0617aa97f85366d88cda3a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09618",
+   "short": "Lei 9618/2025",
+   "title": "Lei nº 9.618, de 28 de outubro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21434",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 12,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21434/lei9618-lei.pdf",
+     "sha256": "5a081a256cbe17bde4df7969d0a3ff40e9dd43dcd5d1859442e4dbfc417408dc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09617",
+   "short": "Lei 9617/2025",
+   "title": "Lei nº 9.617, de 28 de outubro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21433",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21433/lei9617-lei.pdf",
+     "sha256": "5c190df2fec54822ed312108d1166f28258a9993d5e60837a562214132e9c837"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09616",
+   "short": "Lei 9616/2025",
+   "title": "Lei nº 9.616, de 28 de outubro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21432",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21432/lei9616-lei.pdf",
+     "sha256": "c167d32306865f09ed4c1cf6f60d03809f00f95e64430e977b8c9e400dfe4c5d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09615",
+   "short": "Lei 9615/2025",
+   "title": "Lei nº 9.615, de 27 de outubro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21431",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 30,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21431/lei9615-lei.pdf",
+     "sha256": "80c953a36e4d8601a78205d06d445a53c4ae3f5d57030edb4e292b4a89714106"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09614",
+   "short": "Lei 9614/2025",
+   "title": "Lei nº 9.614, de 27 de outubro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21430",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21430/lei9614-lei.pdf",
+     "sha256": "7ce30c7828f43c0de811f7abd772b7b996a349de47162e4cc7abd276211c2a68"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09612",
+   "short": "Lei 9612/2025",
+   "title": "Lei nº 9.612, de 27 de outubro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21428",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 7,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21428/lei9612_-_lei.pdf",
+     "sha256": "b44d5038d060e4fcf1b6e0884853e117933f262f968eb138f04cbe76e08c46f1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09611",
+   "short": "Lei 9611/2025",
+   "title": "Lei nº 9.611, de 15 de outubro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21405",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 6,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21405/lei_no_9611.2025_-_parceria_para_oferta_de_oculos_de_grau_a_cidadao_em_vulnerabilidade_social.pdf",
+     "sha256": "0536249be2255322605ce94381b1a54b85cf30570acd776a78baae6d9cd51e40"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09610",
+   "short": "Lei 9610/2025",
+   "title": "Lei nº 9.610, de 15 de outubro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21404",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21404/lei_no_9610.2025_-_altera_l_8298-2017.pdf",
+     "sha256": "47ebb3a3dfb890291b4f53e64bbd7afe7669bdc4a3c98e2dacf8fb2f6a7f1e6a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09609",
+   "short": "Lei 9609/2025",
+   "title": "Lei nº 9.609, de 13 de outubro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21425",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 6,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21425/lei_no_9609.2025_-_programa_de_apoio_a_reintegracao_social_das_pessoas_privadas_de_liberdade.pdf",
+     "sha256": "3f739cee4949958a50858575fa80e32ca1e524fabc0b143b2421a2e9c9804d80"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09608",
+   "short": "Lei 9608/2025",
+   "title": "Lei nº 9.608, de 9 de outubro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21397",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 8,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21397/lei_no_9608.2025_-_selo_amigo_da_pessoa_da_idosa.pdf",
+     "sha256": "cb8c50cb0eae2f12bf4c0684375013bdba9d50fb780bdf560b12fb5bd947ee20"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09607",
+   "short": "Lei 9607/2025",
+   "title": "Lei nº 9.607, de 9 de outubro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21396",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21396/lei_no_9607.2025_-_atribui_zoneamento_-_cemiterio_dos_vivos.pdf",
+     "sha256": "28da48cbdbf59e9b79457982b524be3e3b70c22c495ef49f7e4685be01f0bb07"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09606",
+   "short": "Lei 9606/2025",
+   "title": "Lei nº 9.606, de 29 de setembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21380",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21380/lei_no_9606.2025_-_credito_adicional_semed.pdf",
+     "sha256": "9b3e50da6669f82f5f14ea03c1b89aa2da2b0cc734afcb9db7693dd69f5e5cfb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09605",
+   "short": "Lei 9605/2025",
+   "title": "Lei nº 9.605, de 29 de setembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21379",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 8,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21379/lei_no_9605.2025_-_selo_empresa_amiga_da_infancia.pdf",
+     "sha256": "91fe485a35481f90fa2aed64b6c44ae1bf601bbc722cbe49b012bb98ffb3e126"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09604",
+   "short": "Lei 9604/2025",
+   "title": "Lei nº 9.604, de 29 de setembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21378",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21378/lei_no_9604.2025_-_altera_l_9563-25_1.pdf",
+     "sha256": "d84cb3222a317cf4d40136af0cf1ecba9119d582b2275b13b2c78267e11d8065"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00248",
+   "short": "LC 248/2025",
+   "title": "Lei Complementar nº 248, de 29 de setembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21384",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21384/lei_complementar_no_248_-_2025_1.pdf",
+     "sha256": "600642199d2f5a3fd94aeaaae085c084692542ff6c52fe7fdbba23b5deaec753"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09603",
+   "short": "Lei 9603/2025",
+   "title": "Lei nº 9.603, de 25 de setembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21362",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21362/lei_no_9603.2025_-_prorroga_prazo_da_l_7363-2011_-_sociedade_dos_surdos.pdf",
+     "sha256": "d48400142eb56ef6031a61150de602c5fb2ef6fe70bc415c271f9072990494de"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09602",
+   "short": "Lei 9602/2025",
+   "title": "Lei nº 9.602, de 25 de setembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21361",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21361/lei_no_9602.2025_-_ampliacao_zc02_-_na_extensao_da_av._jk.pdf",
+     "sha256": "dd239050545b869b6df00bc3a003b191c672bfc1d1911fa3419af9ea2bb111f8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09601",
+   "short": "Lei 9601/2025",
+   "title": "Lei nº 9.601, de 25 de setembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21377",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 10,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21377/lei_no_9601.2025_-_programa_farmacia_perto_de_voce_1.pdf",
+     "sha256": "70737bf1d394c854f08ca6837260ee58bfbf003fd6796d221a3c2e356ebd0c2e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09600",
+   "short": "Lei 9600/2025",
+   "title": "Lei nº 9.600, de 25 de setembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21376",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21376/lei_no_9600.2025_-_declaracao_de_utilidade_publica_copecom.pdf",
+     "sha256": "1c891a6e79f2a84736c5c160296021ff9af20a79224553e6a0855426684c68e4"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00247",
+   "short": "LC 247/2025",
+   "title": "Lei Complementar nº 247, de 25 de setembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21363",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21363/lei_complementar_no_247_-_2025.pdf",
+     "sha256": "ca6757e3965c789ff74a7878149e75f4153beb1e2784059ff62cade403113b3d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09598",
+   "short": "Lei 9598/2025",
+   "title": "Lei nº 9.598, de 24 de setembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21375",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 8,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21375/lei_no_9598.2025_-_parceria_para_instalacao_de_bebedouros.pdf",
+     "sha256": "01f2c28a87e383046ec4817702b681d8c5893f734dfedb7bc08fbfae9ed9fb1f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09597",
+   "short": "Lei 9597/2025",
+   "title": "Lei nº 9.597, de 24 de setembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21364",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21364/lei_no_9597.2025_-_tokens_e_tomadas_carregamento_de_cadeiras_de_rodas.pdf",
+     "sha256": "ae8e645b6909b20db122f4fa68c914812f3152ca6541de7ab2e84e7ce2975b15"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09596",
+   "short": "Lei 9596/2025",
+   "title": "Lei nº 9.596, de 23 de setembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21347",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21347/lei_no_9596.2025_-_denomina_rua_-_izaura_teixeira.pdf",
+     "sha256": "76a2a1a3af6f63dd09759788c8657d2c3389d6faf7d7dfce7fc545309457d265"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09595",
+   "short": "Lei 9595/2025",
+   "title": "Lei nº 9.595, de 15 de setembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21328",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 8,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21328/lei_no_9595.2025_-_campanha_de_prevencao_e_enfrentamento_a_violencia_de_genero.pdf",
+     "sha256": "31452a4013d8cc7915ddfe8a65e70c5d98d2d504474a7b394fdb8a4a27e3d48a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09594",
+   "short": "Lei 9594/2025",
+   "title": "Lei nº 9.594, de 15 de setembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21327",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21327/lei_no_9594.2025_-_denomina_ponto_de_apoio_saude_cachoeira_-_alvimar_pedro.pdf",
+     "sha256": "b7d87151348d589d48e4d6f359abfa56835e045db0a07162ff0d7af28fce21df"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09593",
+   "short": "Lei 9593/2025",
+   "title": "Lei nº 9.593, de 15 de setembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21326",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 9,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21326/lei_no_9593.2025_-_selo_recomeco_legal_para_clinicas_terapeuticas.pdf",
+     "sha256": "aadfb500bc4bc73f92ad54bbb156fb9d07effc687a9903ec4d494f997dd4555a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09592",
+   "short": "Lei 9592/2025",
+   "title": "Lei nº 9.592, de 15 de setembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21325",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 10,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21325/lei_no_9592.2025_-_altera_l_9500.pdf",
+     "sha256": "a6e21b1a231e6a47f7623c42a5c64e192eccf505b3ff64a88358b8f798d58869"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09591",
+   "short": "Lei 9591/2025",
+   "title": "Lei nº 9.591, de 10 de setembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21313",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21313/lei9591.pdf",
+     "sha256": "8644693fe640dc17cf70a74b807dbf238d241c4acabece58aa89102fde43c6fe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09590",
+   "short": "Lei 9590/2025",
+   "title": "Lei nº 9.590, de 9 de setembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21297",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21297/lei_no_9590.2025_-_atribui_zoneamento_-_lote_40_q._40_fazenda_pari.pdf",
+     "sha256": "789b64646984d803f5370ce06762e001b2536360d2e1c9fa47e4df5970369c41"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09589",
+   "short": "Lei 9589/2025",
+   "title": "Lei nº 9.589, de 9 de setembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21295",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21295/lei_no_9589.2025_-_atribui_zoneamento_-_quadras_b._santa_cruz.pdf",
+     "sha256": "24bfe26e442a0e3343b0a70e05b525ba9f7da9ce5fbf60c06aa6624863b29bbd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09588",
+   "short": "Lei 9588/2025",
+   "title": "Lei nº 9.588, de 9 de setembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21294",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21294/lei_no_9588.2025_-_abertura_de_credito_gabinete_prefeito.pdf",
+     "sha256": "9d503e09839eed3868c80953f1b1d5cc015a875fc308ddf6026237c0c2c03f11"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09587",
+   "short": "Lei 9587/2025",
+   "title": "Lei nº 9.587, de 9 de setembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21293",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21293/lei_no_9587.2025_-_retificado_altera_l_8964-22_ppa_1.pdf",
+     "sha256": "bfd8ba09af22e41a2874755325e572b019adbe4277cf5aaf7bc3354bd7d39215"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09585",
+   "short": "Lei 9585/2025",
+   "title": "Lei nº 9.585, de 4 de setembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21291",
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21291/lei_no_9585.2025_-_denomina_rua_-_reyler_ramalhao.pdf",
+     "sha256": "84c4a11d44ee516632c6e59ad45153a9240cb1913a1acf8db583c5074b11a608"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09584",
+   "short": "Lei 9584/2025",
+   "title": "Lei nº 9.584, de 4 de setembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21290",
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21290/lei_no_9584.2025_-_denomina_quadra_b._realengo_-_antonio_jose_tavares.pdf",
+     "sha256": "77525e95e28676f99e1220fc3b67019fa9bbc67a48bcd1f1cabed5c15476a2f7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09583",
+   "short": "Lei 9583/2025",
+   "title": "Lei nº 9.583, de 4 de setembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21289",
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "units": 6,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21289/lei_no_9583.2025_-_zoneamento_lotes_49_e_61_b._santos_dumont.pdf",
+     "sha256": "ed1c25d954054d260a66a9254dec9382c363df1ba79d89e0889831614858163f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09581",
+   "short": "Lei 9581/2025",
+   "title": "Lei nº 9.581, de 1 de setembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21288",
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21288/lei_no_9581.2025_-_altera_l_8692-19.pdf",
+     "sha256": "a83c3cc43ac81e96b44dfcd6ff921a7e607ae13c738c8d159c2b7b7dfd7c87a4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09579",
+   "short": "Lei 9579/2025",
+   "title": "Lei nº 9.579, de 1 de setembro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21286",
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21286/lei_no_9579.2025_-_atribui_zoneamento_fazenda_do_areao.pdf",
+     "sha256": "4c1951981071b55f9f7a65a4286b9fe06a89aa66a4ef8ce6427971649c90acca"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09578",
+   "short": "Lei 9578/2025",
+   "title": "Lei nº 9.578, de 21 de agosto de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21259",
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 8,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21259/lei_no_9578.2025_-_receita_medica_e_odontologica_digitadas_em_pc_ou_escrita_letra_forma.pdf",
+     "sha256": "e2fae69d4c08846d2b523a83a1fcbfa78ad90c138f24fc0f4c3877233dbf5d45"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09577",
+   "short": "Lei 9577/2025",
+   "title": "Lei nº 9.577, de 21 de agosto de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21258",
+   "versions": [
+    {
+     "from": "2025-08-22",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21258/lei_no_9577.2025_-_abertura_de_credito_semusa.pdf",
+     "sha256": "2b77dfb3e7e15578e21399feaee550882e23ebbf9bcda09366f698c546995939"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09576",
+   "short": "Lei 9576/2025",
+   "title": "Lei nº 9.576, de 20 de agosto de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21250",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 9,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21250/lei_no_9576.2025_-_adesivo_sinalizacao_ponto_cego_onibus.pdf",
+     "sha256": "757037682d7ee254822c255ca450aa68fd52343bdae6ef3f610830e204752c44"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09575",
+   "short": "Lei 9575/2025",
+   "title": "Lei nº 9.575, de 18 de agosto de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21249",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21249/lei_no_9575.2025_-_proerd_patrimonio_imaterial.pdf",
+     "sha256": "dcc9bed046470dc3fe0245a579dc00ca259b3c899debc4ddaf526f23ba8c527f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09574",
+   "short": "Lei 9574/2025",
+   "title": "Lei nº 9.574, de 18 de agosto de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21248",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21248/lei_no_9574.2025_-_denomina_rua_b._golden_sul_-_francisco_f._campos_1.pdf",
+     "sha256": "8c32ccaf3b3305df8563edd0b699bcbe59b669122eedb745c8e824af7db868a1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09573",
+   "short": "Lei 9573/2025",
+   "title": "Lei nº 9.573, de 18 de agosto de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21247",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 13,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21247/lei_no_9573.2025_-_conscientizacao_efeitos_da_pornografia.pdf",
+     "sha256": "adae4751f45cbefc4e5fd2916f8670767b32a45ac1197cf211357292d046dd2a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09572",
+   "short": "Lei 9572/2025",
+   "title": "Lei nº 9.572, de 18 de agosto de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21246",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21246/lei_no_9572.2025_-_denomina_praca_b._jardinopolis_-_wilson_vicente_couto.pdf",
+     "sha256": "522495e6b3d397cdab61f110d0cc6e8d0f2eeab78b7532781f2a33cf614eb8b7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09571",
+   "short": "Lei 9571/2025",
+   "title": "Lei nº 9.571, de 18 de agosto de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21245",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21245/lei_no_9571.2025_-_altera_l_9110-2022.pdf",
+     "sha256": "49566198fc5bc87277d948f6435f6daeb6cc26555d3d87285e746f2244b81219"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09570",
+   "short": "Lei 9570/2025",
+   "title": "Lei nº 9.570, de 18 de agosto de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21244",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21244/lei_no_9570.2025_-_denomina_ubs_b._jardinopolis_-_carlos_miguel.pdf",
+     "sha256": "4ff020d628d92276d98c1739939fbde07ead48ae4fda406a71de46d8d71fadfe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09569",
+   "short": "Lei 9569/2025",
+   "title": "Lei nº 9.569, de 18 de agosto de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21243",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21243/lei_no_9569.2025_-_empresa_amiga_-_abona_falta_empregados_acompanhamento_filho_consulta_medica.pdf",
+     "sha256": "a5ddccb793e9ba51271a3d488a031fba159e20ad26ba6c1c80207145016dff91"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09568",
+   "short": "Lei 9568/2025",
+   "title": "Lei nº 9.568, de 18 de agosto de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21242",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21242/lei_no_9568.2025_-_doa_imovel_b._serra_verde_-_adriana_irani_maria_e_vandinalva.pdf",
+     "sha256": "dc95c3165fedab377a030df74df0c154da193a2d8d4e6ec7fda1bf4993570587"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09567",
+   "short": "Lei 9567/2025",
+   "title": "Lei nº 9.567, de 11 de agosto de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21210",
+   "versions": [
+    {
+     "from": "2025-08-13",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21210/lei_no_9567.2025_-_biblia_como_recurso_paradidatico.pdf",
+     "sha256": "56aee87c78378afaa89a3e7bd44e9ad738878aae15103832e8ce8e919b0c3325"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00246",
+   "short": "LC 246/2025",
+   "title": "Lei Complementar nº 246, de 7 de agosto de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21209",
+   "versions": [
+    {
+     "from": "2025-08-12",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21209/lei_complementar_no_246_-_2025.pdf",
+     "sha256": "4ab51781851497c0644545f2f6caf815600aa25869782cb2121899fbb4f6b734"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09566",
+   "short": "Lei 9566/2025",
+   "title": "Lei nº 9.566, de 30 de julho de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21197",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 7,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21197/lei9566.pdf",
+     "sha256": "563fea57b47da6d0164a0da42709f1fc3cd1de919faf7b44230e811c1bfd71d0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09565",
+   "short": "Lei 9565/2025",
+   "title": "Lei nº 9.565, de 14 de julho de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21147",
+   "versions": [
+    {
+     "from": "2025-07-17",
+     "units": 63,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21147/lei_no_9565.2025_-_ldo.pdf",
+     "sha256": "ad80a299bb2816ba261b80dd065f5821c031124c94fa52fe7cbc13e07ed737ef"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09564",
+   "short": "Lei 9564/2025",
+   "title": "Lei nº 9.564, de 8 de julho de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21131",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 7,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21131/lei_no_9564.2025_-_contratos_cessao_onerosa_de_nomeacao_de_eventos_e_equipamentos_publicos.pdf",
+     "sha256": "6ca85eda27f00fa7bc0248be50d53c70693b5f7f723ef9351d8424083e3f7be3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09562",
+   "short": "Lei 9562/2025",
+   "title": "Lei nº 9.562, de 8 de julho de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21129",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 6,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21129/lei_no_9562.2025_-_altera_l_9313-23_doacao_imovel_sinvesd_1.pdf",
+     "sha256": "8f5d8b5b6c12b3f680355b4a9a44e272101d125cf847b638655fddcebf34fd75"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09561",
+   "short": "Lei 9561/2025",
+   "title": "Lei nº 9.561, de 8 de julho de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21128",
+   "versions": [
+    {
+     "from": "2025-07-11",
+     "units": 6,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21128/lei_no_9561.2025_-_capina_quimica_1.pdf",
+     "sha256": "b18ef1ad540f05a66d873722320f9fa2c3d4da48aa06e51083d5c450e7c7489b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09560",
+   "short": "Lei 9560/2025",
+   "title": "Lei nº 9.560, de 3 de julho de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21104",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 9,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21104/lei_no_9560.2025_-_programa_qr_code_divino.pdf",
+     "sha256": "829584a357cd0dd44be4cf11bbe1c323eda4eeef5cbb0b4ecba27571bb7a79c6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09559",
+   "short": "Lei 9559/2025",
+   "title": "Lei nº 9.559, de 3 de julho de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21103",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21103/lei_no_9559.2025_-_denomina_centro_atendimento_animal_-_jadir_marra.pdf",
+     "sha256": "7fe04795dda4930fa81d74081178415554b3309bab24f74057d907094eaa7e28"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09558",
+   "short": "Lei 9558/2025",
+   "title": "Lei nº 9.558, de 3 de julho de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21102",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 9,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21102/lei9558_-_atualizada.pdf",
+     "sha256": "2a35b6e1fb00ae2c860700d4a169024c43713e6539c572686f38ea5bdfe41b8b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09557",
+   "short": "Lei 9557/2025",
+   "title": "Lei nº 9.557, de 3 de julho de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21101",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 7,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21101/lei_no_9557.2025_-_prevencao_assedio_transporte_coletivo_e_individual.pdf",
+     "sha256": "8b00db3ab24b65f6cfb64652813fee8ef4f28af7692c15303a59ec3fee0a6df9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09556",
+   "short": "Lei 9556/2025",
+   "title": "Lei nº 9.556, de 3 de julho de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21100",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 6,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21100/lei_no_9556.2025_-_encontro_motocicilista_divina_motofest.pdf",
+     "sha256": "b317c0cd90c3a75163e73710ba61544486aea52be3188e4d47bb6a34122451c2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09555",
+   "short": "Lei 9555/2025",
+   "title": "Lei nº 9.555, de 3 de julho de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21099",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21099/lei_no_9555.2025_-_credito_adicional_semusa.pdf",
+     "sha256": "c4e37424150a6c2e30710b994bbdf719a8056d810c3af28d0050f8ebe13d993f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09554",
+   "short": "Lei 9554/2025",
+   "title": "Lei nº 9.554, de 24 de junho de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21078",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21078/lei_no_9554.2025_-_denominacao_complexo_esportivo_b_nova_holanda_-_hendricus_antonius_1.pdf",
+     "sha256": "c0d9ce680b8a4a2dea97cc7f2cd47563b7535139b52d0b0c90b7a57261ce4796"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09553",
+   "short": "Lei 9553/2025",
+   "title": "Lei nº 9.553, de 24 de junho de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21077",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21077/lei_no_9553.2025_-_denominacao_de_rua_-_herico_de_oliveira.pdf",
+     "sha256": "1dfb7eb0c419ed919587bcfe374ed57e0d0c8f36e9580cb23fa84e9b0de60daf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09552",
+   "short": "Lei 9552/2025",
+   "title": "Lei nº 9.552, de 17 de junho de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21075",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21075/lei_no_9552.2025_-_denominacao_de_rua_-_estevao_bechelane.pdf",
+     "sha256": "a7be13c337b59dbb92f461cd9ff2e7c0ae2ead842e7e64a58d51fef0abe3a538"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09551",
+   "short": "Lei 9551/2025",
+   "title": "Lei nº 9.551, de 17 de junho de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21068",
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21068/lei_no_9551.2025_-_denominacao_complexo_esportivo_no_serra_verde_-_celso_correa_de_souza.pdf",
+     "sha256": "445e25efdf2a43309efcc2aea649e90dbb1adde873236026cf1d1cb252c9b5ac"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09548",
+   "short": "Lei 9548/2025",
+   "title": "Lei nº 9.548, de 12 de junho de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21057",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 8,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21057/lei9548.pdf",
+     "sha256": "af403d899e5aecda1ad2daeb4159f3e598a0788c75dbcb119b4ab9ed1f0ba87c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09547",
+   "short": "Lei 9547/2025",
+   "title": "Lei nº 9.547, de 10 de junho de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21050",
+   "versions": [
+    {
+     "from": "2025-06-11",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21050/lei9547.pdf",
+     "sha256": "fcae012d5eaef1294289032c8a190a826904ad86fa0d1083a8c52816c6d34911"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09546",
+   "short": "Lei 9546/2025",
+   "title": "Lei nº 9.546, de 9 de junho de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21047",
+   "versions": [
+    {
+     "from": "2025-06-11",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21047/lei_no_9546.2025_-_doacao_bens_moveis_para_prefeitura_completa_1.pdf",
+     "sha256": "b87bdf25a364c966abc8cb8566831e4bf068c5ff34611e3b139b9b0d2b54f651"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09545",
+   "short": "Lei 9545/2025",
+   "title": "Lei nº 9.545, de 9 de junho de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21046",
+   "versions": [
+    {
+     "from": "2025-06-11",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21046/lei_no_9545.2025_-_calendario_limpeza_e_manutencao_em_cemiterios.pdf",
+     "sha256": "18a30831b25e35af792131eddc5e03d968bf40443c724076f211e158b9489f08"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-00244",
+   "short": "LC 244/2025",
+   "title": "Lei Complementar nº 244, de 9 de junho de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21048",
+   "versions": [
+    {
+     "from": "2025-06-11",
+     "units": 13,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21048/lei_complementar_no_244_-_2025.pdf",
+     "sha256": "64ed581e2d7f7ec6230c2589d92a550986fbee28cca22b84b1112883c4b1d78f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09544",
+   "short": "Lei 9544/2025",
+   "title": "Lei nº 9.544, de 6 de junho de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21041",
+   "versions": [
+    {
+     "from": "2025-06-09",
+     "units": 15,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21041/lei_no_9544.2025_-_incentivo_leitura_de_autores_divinopolitanos.pdf",
+     "sha256": "be4ba40273d4a7b6e1bb8e639842d07f0c6ccc149d492e73b8983bd8df3b0739"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09543",
+   "short": "Lei 9543/2025",
+   "title": "Lei nº 9.543, de 28 de maio de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21021",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21021/lei_no_9543.2025_-_declaracao_de_utilidade_publica_lions_clube_1.pdf",
+     "sha256": "a87bd83582eb869fc450e8a30ecf6918be2f88d36b56bee3dc7a8723b178e8ae"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09542",
+   "short": "Lei 9542/2025",
+   "title": "Lei nº 9.542, de 28 de maio de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21020",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21020/lei_no_9542.2025_-_revoga_dispositivo_da_lei__9110_1.pdf",
+     "sha256": "14aeaa379d617f832d110e2db98cf79990a9832b623c4336a3cd0a67e457011c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09541",
+   "short": "Lei 9541/2025",
+   "title": "Lei nº 9.541, de 28 de maio de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21034",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21034/lei_no_9541.2025_-_desafeta_e_aliena_imovel_empresa_th_empreendimentos.pdf",
+     "sha256": "0929157218ac12454f22adf0f61843d957dd5ac6ecec0583fdf7d0a6619b7629"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09540",
+   "short": "Lei 9540/2025",
+   "title": "Lei nº 9.540, de 27 de maio de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21019",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21019/lei_no_9540.2025_-_denominacao_de_praca_-_iraci_gualberto.pdf",
+     "sha256": "4c8dcb307cf2d40164c19b5856c643ee02dfb3d83f6fec1ce5c1e5e8dd5fb519"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09538",
+   "short": "Lei 9538/2025",
+   "title": "Lei nº 9.538, de 12 de maio de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21010",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21010/lei_no_9538.2025_-_calendario_manutencao_preventiva_estradas_rurais.pdf",
+     "sha256": "f1d928cffd303f38dfb89f67f5f7dce41d0a19e71cbdf44d28b8e8778540e8d3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09537",
+   "short": "Lei 9537/2025",
+   "title": "Lei nº 9.537, de 12 de maio de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21009",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21009/lei_no_9537.2025_-_atribui_zoneamento_lotes_bairro_dona_ceci.pdf",
+     "sha256": "909e2c7038a729a525b35494e65351e96018d80abb9d236c62dc558909c35ef1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09535",
+   "short": "Lei 9535/2025",
+   "title": "Lei nº 9.535, de 12 de maio de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21007",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 7,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21007/lei_no_9535.2025_-_disponibilizacao_de_wifi_nas_pracas.pdf",
+     "sha256": "d862648bfdd938853193a9be253b545366bdae04cef0391ffb9f1e69e290e3f8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09534",
+   "short": "Lei 9534/2025",
+   "title": "Lei nº 9.534, de 12 de maio de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/21006",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 6,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/21006/lei_no_9534.2025_-_separacao_lei_sus_para_gestante_com_obito_fetal_ou_natimorto.pdf",
+     "sha256": "81faab945bdf4c0f5b9a045ac4b512d2e90a6d2fad48728c376d60630ec695bd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09533",
+   "short": "Lei 9533/2025",
+   "title": "Lei nº 9.533, de 6 de maio de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20964",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 6,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/20964/lei_no_9533.2025_-_instalacao_de_tomada_e_tokens_carragamento_celular.pdf",
+     "sha256": "876daaee8f6fad980b14541d6c3f7e6753a4a35e993cfb3e4621e413b780763c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09532",
+   "short": "Lei 9532/2025",
+   "title": "Lei nº 9.532, de 6 de maio de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20965",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 6,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/20965/lei_no_9532.2025_-_criacao_de_casa_de_apoio_ao_terceiro_setor.pdf",
+     "sha256": "3cdaa6d7b13a263434cb7df210b13673c186a220cbbcda35e22cef04932444da"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09531",
+   "short": "Lei 9531/2025",
+   "title": "Lei nº 9.531, de 6 de maio de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20966",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 6,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/20966/lei_no_9531.2025_-_reversao_parcial_imovel_da_lei_6165.pdf",
+     "sha256": "81b3500ce6d9821744e8fa75359cb407f584231935f907d30ba37f58c3547890"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09529",
+   "short": "Lei 9529/2025",
+   "title": "Lei nº 9.529, de 28 de abril de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20952",
+   "versions": [
+    {
+     "from": "2025-05-02",
+     "units": 8,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/20952/lei_no_9529.2025_-_transporte_de_pacientes_pelo_sus.pdf",
+     "sha256": "4113f1b27f0c973c29f5d610d4fda3de62d200c29483feb0d994931e006dc1c9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09528",
+   "short": "Lei 9528/2025",
+   "title": "Lei nº 9.528, de 28 de abril de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20951",
+   "versions": [
+    {
+     "from": "2025-05-02",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/20951/lei_no_9528.2025_-_altera_l_8265-2017.pdf",
+     "sha256": "565ab4439f4e5b20128ad9f4d7bcfa0125221becb5a32fde2d4133cfcd36a45c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09526",
+   "short": "Lei 9526/2025",
+   "title": "Lei nº 9.526, de 14 de abril de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20931",
+   "versions": [
+    {
+     "from": "2025-04-17",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/20931/lei_no_9526.2025_-_servidao_administrativa_cemig.pdf",
+     "sha256": "4034ab3371790b1771c4aada70e7328462287c46ceb54d8ea8092a8b29bc4eb3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09525",
+   "short": "Lei 9525/2025",
+   "title": "Lei nº 9.525, de 14 de abril de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20930",
+   "versions": [
+    {
+     "from": "2025-04-17",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/20930/lei_no_9525.2025_-_declaracao_de_utilidade_publica_probar.pdf",
+     "sha256": "b8bd68ff3f90a9c459788781d5b6480890012a5f8f6749c7d3d0ccbdfdeb94cb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09524",
+   "short": "Lei 9524/2025",
+   "title": "Lei nº 9.524, de 11 de abril de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20929",
+   "versions": [
+    {
+     "from": "2025-04-15",
+     "units": 6,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/20929/lei_no_9524.2025_-_projeto_meu_kit_escolar.pdf",
+     "sha256": "d5c4d1be0c82b0e3cfeaf0d3c6abec3733a243b2914901ebf51918262bafb541"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09523",
+   "short": "Lei 9523/2025",
+   "title": "Lei nº 9.523, de 11 de abril de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20928",
+   "versions": [
+    {
+     "from": "2025-04-15",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/20928/lei_no_9523.2025_-_afetacao_area_praca_-av_parana_e_rua_guape.pdf",
+     "sha256": "904442d58ab0289ff565f57c7b52731e446177184ece27d70f64cbaf2fb4ac58"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09522",
+   "short": "Lei 9522/2025",
+   "title": "Lei nº 9.522, de 1 de abril de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20914",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/20914/lei_no_9522.2025_-_altera_a_lei_no_7.441.pdf",
+     "sha256": "f56d6af174e7a552ed92d9954bf1e8205783e35d654ee5e6891ec7423ffb8aef"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09521",
+   "short": "Lei 9521/2025",
+   "title": "Lei nº 9.521, de 1 de abril de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20913",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 6,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/20913/lei_no_9521.2025_-_dispoe_sobre_a_obrigatoriedade_de_autorizacao_dos_pais_ou_representantes_legais_para_a_realizacao_de_procedimentos_abortivos_em_adolescentes.pdf",
+     "sha256": "a071aee27607aa71fab184fddbd42d6088b8c04bbeeefc5fde448cce66450ca3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09520",
+   "short": "Lei 9520/2025",
+   "title": "Lei nº 9.520, de 1 de abril de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20912",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 6,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/20912/lei_no_9520.2025_-_autoriza_a_intervencao_em_imoveis_privados_para_garantir_a_seguranca_em_vias_publicas.pdf",
+     "sha256": "51d0347fbf03dea6bd7ab7d91bbdb24dfaa8a2ebd880043058ae9f2dd76f671a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09519",
+   "short": "Lei 9519/2025",
+   "title": "Lei nº 9.519, de 1 de abril de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20911",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/20911/lei_no_9519.2025_-_denominacao_de_rua_-_antonio_clementino_pereira.pdf",
+     "sha256": "8d7fb76981e93d145baafda406b75a2e048fc1861ad5bf4c59ef7e3ff928edec"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09518",
+   "short": "Lei 9518/2025",
+   "title": "Lei nº 9.518, de 24 de março de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20910",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 11,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/20910/lei_no_9518.2025_-_programa_pit_stop_bike.pdf",
+     "sha256": "a8f8870a66e9b73c85ec29b800f613280e9e816ff8b6dd87e4f766cbd5ccea3c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09517",
+   "short": "Lei 9517/2025",
+   "title": "Lei nº 9.517, de 24 de março de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20909",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/20909/lei_no_9517.2025_-_denominacao_de_rua_-_joao_franca_de_oliveira.pdf",
+     "sha256": "50760e70f461bbe39cfe9e91e44c629862025ee7e78aa7cdd20c9d5c6b8ff404"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09516",
+   "short": "Lei 9516/2025",
+   "title": "Lei nº 9.516, de 20 de março de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20865",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/20865/lei_no_9516.2025_-_calendario_manutencao_dos_espacos_de_esporte_e_lazer.pdf",
+     "sha256": "624ec5d55ad40d08e2224df8ce77547bf91dfc4974901683455c1c1e286209a8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09514",
+   "short": "Lei 9514/2025",
+   "title": "Lei nº 9.514, de 17 de março de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20849",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 6,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/20849/lei_no_9514.2025_-_distribuicao_de_vacinas_ms.pdf",
+     "sha256": "1bdd10e8edbb1a150894cfb753fb8b6e4c041393a2bde53c83f995e501fd4ce5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09513",
+   "short": "Lei 9513/2025",
+   "title": "Lei nº 9.513, de 17 de março de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20848",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 8,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/20848/lei_no_9513.2025_-_cessao_usina_de_asfalto_emop.pdf",
+     "sha256": "3478530bf98a74c01e53fe766c76ce89f7cd8476c230a52a9b58596b0fa3c951"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09512",
+   "short": "Lei 9512/2025",
+   "title": "Lei nº 9.512, de 17 de março de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20847",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/20847/lei_no_9512.2025_-_altera_l_7716-2013.pdf",
+     "sha256": "a688ef14f3b07c903ac7ddf1705a5a0ba610a10d9469eca806b428f032f04344"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09511",
+   "short": "Lei 9511/2025",
+   "title": "Lei nº 9.511, de 13 de março de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20836",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/20836/lei_no_9511.2025_-_desafeta_e_aliena_nesga_no_centro.pdf",
+     "sha256": "5090b1c7aadb5a7cd42137b33ddc5df67cd77bd527fd58096e0f5bb56b289ad0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09510",
+   "short": "Lei 9510/2025",
+   "title": "Lei nº 9.510, de 10 de março de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20826",
+   "versions": [
+    {
+     "from": "2025-03-12",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/20826/lei_no_9510.2025_-_altera_lei_no_6713-2005.pdf",
+     "sha256": "9175f89a19bdba094b3e36a7299fd9fed9a2cdfd5767a35d8ce2af441980930e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09509",
+   "short": "Lei 9509/2025",
+   "title": "Lei nº 9.509, de 6 de março de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20819",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/20819/lei_no_9509.2025_-_declaracao_de_utilidade_publica_instituto_voe.pdf",
+     "sha256": "771b2cb6eea2a1162c62cae1b0669a87b008f1d08b07824b09c48aa481e309f8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09508",
+   "short": "Lei 9508/2025",
+   "title": "Lei nº 9.508, de 6 de março de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20818",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/20818/lei_no_9508.2025_-_altera_l_7174_1.pdf",
+     "sha256": "9963b2216e60751943c47cbba4878457489dd1ec99d5e14f6c6eae548aa1ca13"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09507",
+   "short": "Lei 9507/2025",
+   "title": "Lei nº 9.507, de 6 de março de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20817",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/20817/lei_no_9507.2025_-_revoga_parcialmente__l_8178.pdf",
+     "sha256": "16633910bb96268edc03c86fbcac06f81478e3b4b17f61e1358671c55a196e2e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09506",
+   "short": "Lei 9506/2025",
+   "title": "Lei nº 9.506, de 6 de março de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20816",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/20816/lei_no_9506.2025_-_altera_l_8649_1.pdf",
+     "sha256": "97543fb6b572a8d89754ccc2df74fc33820b99778560ea764aa5893ad58be9be"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09505",
+   "short": "Lei 9505/2025",
+   "title": "Lei nº 9.505, de 25 de fevereiro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20791",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/20791/lei_no_9505.2025_-_denominacao_de_rua_-_marcio_fernandes.pdf",
+     "sha256": "148fd73e5a9a0385f00e5f3e9297002137254ed484619027afd27a2b317e9953"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09504",
+   "short": "Lei 9504/2025",
+   "title": "Lei nº 9.504, de 25 de fevereiro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20790",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/20790/lei_no_9504.2025_-_denominacao_de_praca_-_raimunda_maria.pdf",
+     "sha256": "bfa879926da813b05eb2f5eff558830d6152bbc3bb396dc7f93f38ce1b83a7ee"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09503",
+   "short": "Lei 9503/2025",
+   "title": "Lei nº 9.503, de 13 de fevereiro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20749",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 9,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/20749/lei_no_9503.2025_-_autoriza_o_poder_executivo_a_contratar_operacoes_de_credito.pdf",
+     "sha256": "268c5a4aef56e91d69cdf78150e8ce12e46c044c86873cfe3f3a3edda9ff54be"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09502",
+   "short": "Lei 9502/2025",
+   "title": "Lei nº 9.502, de 10 de janeiro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20641",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 8,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/20641/lei_no_9502.2025_-_prevencao_violencia_obstetrica_e_cria_comite_de_defesa.pdf",
+     "sha256": "0a194858f9ff376676e2b0cbeca43991d417a776e98092f2b848e23184a19ffd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-09501",
+   "short": "Lei 9501/2025",
+   "title": "Lei nº 9.501, de 10 de janeiro de 2025",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20618",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 7,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2025/20618/lei_no_9501.2025_-_autoriza_a_implantacao_de_sistema_de_vigilancia_eletronica.pdf",
+     "sha256": "2fa2faea73af1f2a7ff705d583ad9611a1bd22da1148d2f1ee2215c7848fb9a8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09499",
+   "short": "Lei 9499/2024",
+   "title": "Lei nº 9.499, de 26 de dezembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20567",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20567/lei_no_9499.2024_-_retificada_denomina_campo_de_futebol_-_arthur_diniz_araujo.pdf",
+     "sha256": "bb83d11ad58800f53c56df9c0a9957b884d0fb8aed10fd34219ea73e14b45c68"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09498",
+   "short": "Lei 9498/2024",
+   "title": "Lei nº 9.498, de 26 de dezembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20565",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20565/lei_no_9498.2024_-_denomina_praca_-_otaviano_bernardino_da_silveira_1.pdf",
+     "sha256": "79b92baaf3fccf2e3c622e6fba58e927db10eaf9fcce699faa1a39b4ac5ea7d3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09497",
+   "short": "Lei 9497/2024",
+   "title": "Lei nº 9.497, de 26 de dezembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20566",
+   "versions": [
+    {
+     "from": "2025-01-03",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20566/lei_no_9497.2024_-_denomina_rua_-_joao_alberto_zacarias.pdf",
+     "sha256": "dce74beb45ce7ec707c0915c27546a019d1db746268fb5e88d22bc7a7a708cbf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09493",
+   "short": "Lei 9493/2024",
+   "title": "Lei nº 9.493, de 23 de dezembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20544",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20544/lei_no_9493.2024_-_zoneamento_zum2.pdf",
+     "sha256": "554e8e6002af21ed0658e0006e790c2af1c15698c24c6c3d21a0d19d606d18e7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09492",
+   "short": "Lei 9492/2024",
+   "title": "Lei nº 9.492, de 23 de dezembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20546",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20546/lei_no_9492.2024_-_dispoe_sobre_a_descaracterizacao_e_atribuicao_de_novo_zoneamento_na_rua_bom_sucesso.pdf",
+     "sha256": "34d43b1e86f47ac586fbab167b5b2eddd7723eadc03e91408ebbf481e6212c8a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09491",
+   "short": "Lei 9491/2024",
+   "title": "Lei nº 9.491, de 23 de dezembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20549",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20549/lei_no_9491.2024_-_dispoe_sobre_a_reversao_do_imovel_objeto_da_doacao_de_que_trata_a_lei_no_7.508.pdf",
+     "sha256": "d56534ad2f5c25bc5f49297ed917b912c74b0496320ec3a901f39a7f24de6bd2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09490",
+   "short": "Lei 9490/2024",
+   "title": "Lei nº 9.490, de 23 de dezembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20545",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 9,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20545/lei_no_9490.2024_-_autoriza_o_poder_executivo_a_contratar_operacoes_de_credito_com_instituicoes_financeiras.pdf",
+     "sha256": "b569262e2c0b279c32a92bdda79740f03e3e4b54d3ba82a0777eea6d935c4bbd"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-00243",
+   "short": "LC 243/2024",
+   "title": "Lei Complementar nº 243, de 23 de dezembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20550",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20550/lei_complementar_no_243_-_2024_-_retificada.pdf",
+     "sha256": "da09506d43fc7690c282417b30398e2156f0a479bad138b204e6c352ac48d7ea"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09489",
+   "short": "Lei 9489/2024",
+   "title": "Lei nº 9.489, de 19 de dezembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20547",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20547/lei_no_9489.2024_-_dispoe_sobre_brinquedos_e_academias_ao_ar_livre_nas_pracas_e_predios_publicos.pdf",
+     "sha256": "1cf542e83d767a7231b893f218ac6bdaa4b0289fadee6672c85cfcd0dde6cd27"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09488",
+   "short": "Lei 9488/2024",
+   "title": "Lei nº 9.488, de 13 de dezembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20531",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 7,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20531/lei9488.pdf",
+     "sha256": "ef5fbb327138221c126df3a9b6386bf281d18024c8d80689724e4c989b351b7e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09487",
+   "short": "Lei 9487/2024",
+   "title": "Lei nº 9.487, de 9 de dezembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20523",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20523/lei_no_9487.2024_-_comunicacao_de_maus_tratos_aos_animais.pdf",
+     "sha256": "cb1bb3d772ec6522b91114095a950bc9822f650d618b072257ad0efdb74e867a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09486",
+   "short": "Lei 9486/2024",
+   "title": "Lei nº 9.486, de 6 de dezembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20516",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 7,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20516/lei9486_-_atualizada.pdf",
+     "sha256": "6e900ccaf64b558533316369d5da598a9b38bc3acd55d7238396a99c9a26fa45"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09485",
+   "short": "Lei 9485/2024",
+   "title": "Lei nº 9.485, de 6 de dezembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20515",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20515/lei_no_9485.2024_-_plano_de_custeio_diviprev.pdf",
+     "sha256": "7fd2572330a4a4b7db500cbdd02a8d610af0322e4ce2d459361f371ac8bc00d9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09484",
+   "short": "Lei 9484/2024",
+   "title": "Lei nº 9.484, de 5 de dezembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20514",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20514/lei_no_9484.2024_-_denomina_rua_-_michel_alves.pdf",
+     "sha256": "9048038552cfca2abd18df4216ade18c4d9c2112a43350720796f5fdc5962072"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09483",
+   "short": "Lei 9483/2024",
+   "title": "Lei nº 9.483, de 29 de novembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20504",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20504/lei9483.pdf",
+     "sha256": "aa124cacb7d366e8e2ac2e7f82656e77475d079c483326e5559a0afa33630277"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09482",
+   "short": "Lei 9482/2024",
+   "title": "Lei nº 9.482, de 28 de novembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20502",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20502/lei_no_9482.2024_-_zoneamento_gleba_em_santo_antonio_dos_campos.pdf",
+     "sha256": "dd02c5fffb3e0e987e1a1d282dd2fd9c9169e2de98ef29feabe18005ad65f1e9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09481",
+   "short": "Lei 9481/2024",
+   "title": "Lei nº 9.481, de 28 de novembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20501",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20501/lei_no_9481.2024_-_altera_lei_9042-2022.pdf",
+     "sha256": "75416353cb67b43f55f40f83688d722659c76383f98ff9c1b1199587b21e31ce"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09480",
+   "short": "Lei 9480/2024",
+   "title": "Lei nº 9.480, de 28 de novembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20500",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 28,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20500/lei_no_9480.2024_-_beneficio_auxilio_moradia.pdf",
+     "sha256": "21b8a1fcd1c162f0ab148ae72828cf2d95dfdfc2aa89abc4adb421eb1019a856"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09479",
+   "short": "Lei 9479/2024",
+   "title": "Lei nº 9.479, de 28 de novembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20499",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20499/lei_no_9479.2024_-_denomina_rua_-_joao_henrique_dias.pdf",
+     "sha256": "19a58db53e8768d241d1474bea70a00429a690d40ec5331ddca951f59e2c94d5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09478",
+   "short": "Lei 9478/2024",
+   "title": "Lei nº 9.478, de 28 de novembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20498",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20498/lei_no_9478.2024_-_denomina_praca_-_fidelis_goncalves.pdf",
+     "sha256": "0359ad92d5784a7a35abaa75655967a08fca65bce7b99c42425b545fc6dc533a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09477",
+   "short": "Lei 9477/2024",
+   "title": "Lei nº 9.477, de 18 de novembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20484",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20484/lei_no_9477.2024_-_credito_adicional_semusa.pdf",
+     "sha256": "4ae39cc17d544035f5388fcc288f665c93534e34961af8904968d4b8b8da8ede"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09476",
+   "short": "Lei 9476/2024",
+   "title": "Lei nº 9.476, de 13 de novembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20483",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20483/lei_no_9476.2024_-_credito_adicional_semusa.pdf",
+     "sha256": "35cba91801878bfc08c81c7e2f216fbc78b5d376275d606e46c4a4e5aa5a6ce6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09475",
+   "short": "Lei 9475/2024",
+   "title": "Lei nº 9.475, de 13 de novembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20477",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 10,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20477/lei_no_9475.2024_-_domicilio_municipal_eletronico.pdf",
+     "sha256": "a8616d99139167679f0e3d8d1be1624bf79cdafa2987c5398784b5a0a31e29d3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09474",
+   "short": "Lei 9474/2024",
+   "title": "Lei nº 9.474, de 13 de novembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20478",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20478/lei_no_9474.2024_-_denominacao_de_rua_-_paulo_rocha.pdf",
+     "sha256": "aa6b79b38de0c0835987e519b6c7a57938758641bd5854593c596567b341087a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-00242",
+   "short": "LC 242/2024",
+   "title": "Lei Complementar nº 242, de 13 de novembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20475",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 10,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20475/lei_complementar_no_242_-_2024.pdf",
+     "sha256": "3d5a93691555ba261ae873b1124794d016fb73a8896a1116fa5a6e1ad8eea22e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09473",
+   "short": "Lei 9473/2024",
+   "title": "Lei nº 9.473, de 11 de novembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20476",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20476/lei_no_9473.2024_-_zoneamento_lote_bairro_santa_luzia.pdf",
+     "sha256": "b7d1e5eb0928cdf4df132bac1271b99bf0482684ff487491e1fed9bc36d59395"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09472",
+   "short": "Lei 9472/2024",
+   "title": "Lei nº 9.472, de 7 de novembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20461",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20461/lei_no_9472.2024_-_altera_l_9330-24.pdf",
+     "sha256": "9383f2fca02257d22377f876c61f5b484de81afd85514963d380dff7ccd271f5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09470",
+   "short": "Lei 9470/2024",
+   "title": "Lei nº 9.470, de 1 de novembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20458",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20458/lei_no_9470.2024_-_consorcio_cimmvi.pdf",
+     "sha256": "0b65abcd690a2ae048f6ee30d21b5612c9bd0455313bed03e8bf757361309e48"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09469",
+   "short": "Lei 9469/2024",
+   "title": "Lei nº 9.469, de 1 de novembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20457",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20457/lei_no_9469.2024_-_declaracao_de_utilidade_publica_-_filhos_de_ode.pdf",
+     "sha256": "10eac54990fbe39f51821497c26d9ee5bf03d7cbdbba0240950c77c0c452d607"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09468",
+   "short": "Lei 9468/2024",
+   "title": "Lei nº 9.468, de 24 de outubro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20454",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20454/lei_no_9468.2024_-_atribui_zoneamento_bairro_planalto.pdf",
+     "sha256": "e6b23e4d5da48040b17c5fd4ec3c1b9224b92fdbecb55d68ef0f7d3baaf009f0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09467",
+   "short": "Lei 9467/2024",
+   "title": "Lei nº 9.467, de 24 de outubro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20453",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 7,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20453/lei_no_9467.2024_-dia_do_vereador_mirim.pdf",
+     "sha256": "90ccdd0547cf2496afda3340f1979535a2915b9a13a0cf748e8f0f56c90d3f13"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09465",
+   "short": "Lei 9465/2024",
+   "title": "Lei nº 9.465, de 17 de outubro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20428",
+   "versions": [
+    {
+     "from": "2024-10-22",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20428/lei_no_9465.2024_-_denominacao_de_rua_-_francisco_de_assis.pdf",
+     "sha256": "0507fd06dd120abf0f1844028e2b4a1b526b1d80285c4969d26c0ded3cf82b30"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09464",
+   "short": "Lei 9464/2024",
+   "title": "Lei nº 9.464, de 15 de outubro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20426",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 77,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20426/lei9464_-_atualizada.pdf",
+     "sha256": "db97ed94e0bc8050ff65b89c4ec25de195822be7fcb0766063cd548d41e512e5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09463",
+   "short": "Lei 9463/2024",
+   "title": "Lei nº 9.463, de 15 de outubro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20425",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20425/lei_no_9463.2024_-_altera_lei_8519.pdf",
+     "sha256": "f70bba2901c8dded066bc59728975324eff345c2718f440516024274c3c9a701"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09462",
+   "short": "Lei 9462/2024",
+   "title": "Lei nº 9.462, de 15 de outubro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20424",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20424/lei_no_9462.2024_-_permuta_imoveis_-_abertura_av_rio_grande_do_sul.pdf",
+     "sha256": "7e4adc6e53c1ea0fe1fe60c8598ae066f7eb1e92c791735cb94cb549b48536d1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-00241",
+   "short": "LC 241/2024",
+   "title": "Lei Complementar nº 241, de 15 de outubro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20423",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20423/lei_complementar_no_241_-_2024.pdf",
+     "sha256": "23382c33967a8a400b2884821f8a5e17e4618f0e6f37b84355f3595a452c78e6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09461",
+   "short": "Lei 9461/2024",
+   "title": "Lei nº 9.461, de 14 de outubro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20415",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 10,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20415/lei9461.pdf",
+     "sha256": "109a1f701a80a6cc76c4d52dd69722111a8696e9c8ee58cf92e4d57c7622c5fc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09460",
+   "short": "Lei 9460/2024",
+   "title": "Lei nº 9.460, de 10 de outubro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20411",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 8,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20411/lei_no_9460.2024_-_politica_de_prevencao_de_desastres_climaticos_e_altera_lei_4256.pdf",
+     "sha256": "dcf1f89d75ca47fef190afd45d59e4d36f874d098fe73b5cd57954f557c6d148"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09459",
+   "short": "Lei 9459/2024",
+   "title": "Lei nº 9.459, de 10 de outubro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20410",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20410/lei_no_9459.2024_-_altera_l_6.173_1.pdf",
+     "sha256": "67e19f6a41ea032bba3a92cb7dc83649553e3853cf6631819ba80b9681a6c5d4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09458",
+   "short": "Lei 9458/2024",
+   "title": "Lei nº 9.458, de 10 de outubro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20409",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20409/lei_no_9458.2024_-_altera_l_8639.pdf",
+     "sha256": "aee8752fb7da76a3eac34135f3524554bea8bd1b6e9a54928a5bb55537fb3c5c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09457",
+   "short": "Lei 9457/2024",
+   "title": "Lei nº 9.457, de 10 de outubro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20408",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 14,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20408/lei_no_9457.2024_-_altera_l_8781.pdf",
+     "sha256": "3be80bca9f092d300b39c540204257b0968e696ef222c13a46748389c9c4f711"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09456",
+   "short": "Lei 9456/2024",
+   "title": "Lei nº 9.456, de 10 de outubro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20407",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 6,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20407/lei_no_9456.2024_-_permuta_de_imoveis__-_para_prosseguimento_da_rua_omar_ferreira.pdf",
+     "sha256": "d1d9dc3e87cfede8408289f46b091a922a97ae6141606d3364d4c79f71d40976"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09455",
+   "short": "Lei 9455/2024",
+   "title": "Lei nº 9.455, de 10 de outubro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20406",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20406/lei_no_9455.2024_-_denominacao_de_rua_-_arizio_alves.pdf",
+     "sha256": "e89cb490dbd04af8235ca041375e03010ba139cd213dcd6f98d3dadc38846cbb"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-00240",
+   "short": "LC 240/2024",
+   "title": "Lei Complementar nº 240, de 2 de outubro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20403",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20403/lei_complementar_no_240_-_2024.pdf",
+     "sha256": "6b5dd39145779f50c3f10a54a484964586479360e529e9aed44ec2c3144a81ef"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09453",
+   "short": "Lei 9453/2024",
+   "title": "Lei nº 9.453, de 23 de setembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20396",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20396/lei_no_9453.2024_-_credito_adicional_semusa.pdf",
+     "sha256": "5d550b23d1c37ca8d8f781d620b9dc5ecd4b75eee1689dcfac63f489b0d35b4a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09452",
+   "short": "Lei 9452/2024",
+   "title": "Lei nº 9.452, de 19 de setembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20388",
+   "versions": [
+    {
+     "from": "2024-09-20",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20388/lei_no_9452.2024_-_credito_adicional_semusa.pdf",
+     "sha256": "9e6f631edac41f41c75a74f89e80757a90f80c056d7a4d63d99bd3e89c929a18"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09450",
+   "short": "Lei 9450/2024",
+   "title": "Lei nº 9.450, de 18 de setembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20383",
+   "versions": [
+    {
+     "from": "2024-09-19",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20383/lei_no_9450.2024_-_afetacao_area_publica_e_denomina_praca_ricardo_moreira.pdf",
+     "sha256": "7fd3c0847ddd982b14989d460afb4b792fe2e0b12001c640c458890b2cfdc83a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09449",
+   "short": "Lei 9449/2024",
+   "title": "Lei nº 9.449, de 18 de setembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20382",
+   "versions": [
+    {
+     "from": "2024-09-19",
+     "units": 9,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20382/lei_no_9449.2024_-_protecao_povos_de_matriz_africana_e_afro_brasileira.pdf",
+     "sha256": "62a882ca269fa06c6b6944e5d29f65d1ad7b4430fb1fb094675defea9165a429"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09448",
+   "short": "Lei 9448/2024",
+   "title": "Lei nº 9.448, de 18 de setembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20381",
+   "versions": [
+    {
+     "from": "2024-09-19",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20381/lei_no_9448.2024_-_revoga_lei_9378-2024.pdf",
+     "sha256": "9eaf321448627cd51904f0339477992dd23ab63c6c8d6e32526b4744642f24bb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09447",
+   "short": "Lei 9447/2024",
+   "title": "Lei nº 9.447, de 18 de setembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20380",
+   "versions": [
+    {
+     "from": "2024-09-19",
+     "units": 6,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20380/lei_no_9447.2024_-_fomento_a_atividade_leiteira.pdf",
+     "sha256": "7a958ad71acb53e764b0ae502a26b659712d4d9b12818d0d78a1abb18834125c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09446",
+   "short": "Lei 9446/2024",
+   "title": "Lei nº 9.446, de 18 de setembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20379",
+   "versions": [
+    {
+     "from": "2024-09-19",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20379/lei_no_9446.2024_-_denomina_salao_comunitario_b._candelaria_-_benedito_moreira.pdf",
+     "sha256": "8b1f0ce0efeeb5b104905138e79562e33f46831c7701ae01fe4d434d18391b79"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09445",
+   "short": "Lei 9445/2024",
+   "title": "Lei nº 9.445, de 18 de setembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20378",
+   "versions": [
+    {
+     "from": "2024-09-19",
+     "units": 7,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20378/lei_no_9445.2024_-_campanha_de_sensibilizacao_e_suporte_as_servidoras.pdf",
+     "sha256": "58136ba8fd208adf6f851be0ddf09e1dea7679e4ec65fa3afb80d15ebf22ebfe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09451",
+   "short": "Lei 9451/2024",
+   "title": "Lei nº 9.451, de 17 de setembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20387",
+   "versions": [
+    {
+     "from": "2024-09-20",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20387/lei_no_9451.2024_-_denominacao_de_rua_-_antonio_jose_de_oliveira.pdf",
+     "sha256": "fd0a11d0aca80ba9b4fafdff082b25376f6d436fd82f066e584efd6f1e3a0138"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09444",
+   "short": "Lei 9444/2024",
+   "title": "Lei nº 9.444, de 2 de setembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20352",
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20352/lei_no_9444.2024_-_declara_de_utilidade_publica_a_associacao_basquete.pdf",
+     "sha256": "fda1650524f1b890a843ce06798e48d5e018eb454041c90de7d880993a646f78"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09443",
+   "short": "Lei 9443/2024",
+   "title": "Lei nº 9.443, de 2 de setembro de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20351",
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20351/lei_no_9443.2024_-_altera_o_artigo_3o_da_lei_no_9.305_de_2023.pdf",
+     "sha256": "97598cf3077d5b2c307ba7de42ada411d09717895e74b7ec500bce4d53a0b052"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09439",
+   "short": "Lei 9439/2024",
+   "title": "Lei nº 9.439, de 29 de agosto de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20347",
+   "versions": [
+    {
+     "from": "2024-09-03",
+     "units": 6,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20347/lei_no_9439.2024_-_regulamenta_lei_federal_13.913.pdf",
+     "sha256": "5c8cadc79d6724713ee7eacca1ffbcd411893b530d0087934d662182de400161"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09434",
+   "short": "Lei 9434/2024",
+   "title": "Lei nº 9.434, de 20 de agosto de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20342",
+   "versions": [
+    {
+     "from": "2024-08-26",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20342/lei_no_9434.2024_-_credito_adicional_semusa.pdf",
+     "sha256": "f09ad7ce32d57ccae4960c12ff160bac54dc7fb3d01e0e286cca6fd73ebbbdd9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09433",
+   "short": "Lei 9433/2024",
+   "title": "Lei nº 9.433, de 15 de agosto de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20341",
+   "versions": [
+    {
+     "from": "2024-08-26",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20341/lei_no_9433.2024_-_credito_adicional_semusa.pdf",
+     "sha256": "35a4f49d95f84c720ffba855ec5cca91256f9aeb2bd8c95d54ea81a1009dc0f2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09432",
+   "short": "Lei 9432/2024",
+   "title": "Lei nº 9.432, de 2 de agosto de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20287",
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20287/lei_no_9432.2024_-_denomina_upas_dom_cristiano_-_nadir_alves.pdf",
+     "sha256": "f6de7154c402ba208041c50142a58fbabad7fc2f56382e444f3fabb2a09dfae7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09430",
+   "short": "Lei 9430/2024",
+   "title": "Lei nº 9.430, de 8 de julho de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20220",
+   "versions": [
+    {
+     "from": "2024-07-10",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20220/lei_9430.pdf",
+     "sha256": "b78ddd019e8bf7f30ec9a4cb01ef9a4928ba84a0289ed1c8e3c27a67f4312ff2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09429",
+   "short": "Lei 9429/2024",
+   "title": "Lei nº 9.429, de 5 de julho de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20213",
+   "versions": [
+    {
+     "from": "2024-07-08",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20213/lei_no_9429.2024_-_altera_l_6655_-_altera_comportas_semusa.pdf",
+     "sha256": "38abd1f5a2774cc77a3d7d1945fea747383d79e6a2f84058aa0c62086ba67273"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09427",
+   "short": "Lei 9427/2024",
+   "title": "Lei nº 9.427, de 4 de julho de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20207",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20207/lei_no_9427.2024_-_altera_l_8268_-_feira_de_artes_e_antiguidades.pdf",
+     "sha256": "189799490c9bcdf48190dfcb3437a6fd5c095c9a54286805b939956f58cf23ac"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09426",
+   "short": "Lei 9426/2024",
+   "title": "Lei nº 9.426, de 4 de julho de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20206",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20206/lei_no_9426.2024_-_credito_adicional_camara.pdf",
+     "sha256": "0f2f6cf2a274be88272174a1e6f72d5319ed115d1abcd27e9e4969791e040b26"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09425",
+   "short": "Lei 9425/2024",
+   "title": "Lei nº 9.425, de 4 de julho de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20205",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20205/lei_no_9425.2024_-_altera_l_9327_-_subvencoes.pdf",
+     "sha256": "f8176569eb15b9f17f00a5e1e4c9eb420d4d79c8e4d03c76b90543abb90b9288"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09424",
+   "short": "Lei 9424/2024",
+   "title": "Lei nº 9.424, de 4 de julho de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20204",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20204/lei_no_9424.2024_-_credito_adicional_semusa.pdf",
+     "sha256": "b7d55e0fb7f80d6fa6779cc44f716e38e5b9c63a591eae0385e944a71d98e541"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09421",
+   "short": "Lei 9421/2024",
+   "title": "Lei nº 9.421, de 3 de julho de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20201",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20201/lei_no_9421.2024_-_denominacao_de_rua_-_magno_morais.pdf",
+     "sha256": "cc9d1c94f8e6568b5b1105e638d80261ca7b124fbf59359de8ff8f5ee100ca4d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-09419",
+   "short": "Lei 9419/2024",
+   "title": "Lei nº 9.419, de 24 de junho de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20189",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20189/lei_no_9419.2024_-_denominacao_de_rua_-_vicentina_de_castro.pdf",
+     "sha256": "c9e897dd9edb41ca540b36b5f52e093b7697ac8ac9841ad4895c86623590dccd"
+    }
+   ]
+  }
+ ]
+}

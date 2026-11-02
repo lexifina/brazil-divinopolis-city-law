@@ -1,0 +1,9 @@
+{
+  "path": "br-mg-divinopolis",
+  "code": "BR-MG-DIVINOPOLIS",
+  "name": "Divinópolis (city)",
+  "level": "municipality",
+  "parent": "br-mg",
+  "repo": "https://github.com/lexifina/brazil-divinopolis-city-law",
+  "build": "built: the law of Divinópolis from the Câmara Municipal's SAPL"
+}
