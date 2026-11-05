@@ -5074,6 +5074,68 @@
      "sha256": "c9e897dd9edb41ca540b36b5f52e093b7697ac8ac9841ad4895c86623590dccd"
     }
    ]
+  },
+  {
+   "slug": "lc-2024-00239",
+   "short": "LC 239/2024",
+   "title": "Lei Complementar nº 239, de 23 de maio de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/20119",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 4,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/20119/lei_complementar_no_239_-_2024.pdf",
+     "sha256": "149bf3bf7bc1d849a8984f7042d6c60b975c28dff2bdff3eb5732572a3d01625"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-00238",
+   "short": "LC 238/2024",
+   "title": "Lei Complementar nº 238, de 13 de março de 2024",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/19961",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 3,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2024/19961/lc238.pdf",
+     "sha256": "5aef0ccd8494908c6193df0008156a45bfd8a7a114ff6e86770c8278e0f5c070"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-00236",
+   "short": "LC 236/2023",
+   "title": "Lei Complementar nº 236, de 5 de dezembro de 2023",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/19701",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 5,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2023/19701/lei_complementar_no_236_-_2023_1.pdf",
+     "sha256": "e877502675f4d07cbfcee91db05989b2c590f2328d2ed16247e059b0da2ea9c5"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-00235",
+   "short": "LC 235/2023",
+   "title": "Lei Complementar nº 235, de 16 de novembro de 2023",
+   "url": "https://sapl.divinopolis.mg.leg.br/norma/19642",
+   "versions": [
+    {
+     "from": "2023-11-20",
+     "units": 8,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2023/19642/lc235-atualizada.pdf",
+     "sha256": "8cb1d4ef7283b655085138bf842165c3465d0b53de63462498d3a798fb18a67f"
+    },
+    {
+     "from": "2024-05-27",
+     "units": 6,
+     "source_url": "https://sapl.divinopolis.mg.leg.br/media/sapl/public/normajuridica/2023/19642/lc235-atualizada.pdf",
+     "sha256": "8cb1d4ef7283b655085138bf842165c3465d0b53de63462498d3a798fb18a67f"
+    }
+   ]
   }
  ]
 }

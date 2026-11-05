@@ -9,11 +9,11 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | Folder | Act | Versions |
 | --- | --- | ---: |
 | `lei-organica/` | Lei Orgânica do Município de Divinópolis (1998) and every amendment the Câmara's SAPL records | one per period of vigência (37) |
-| `lei-*/`, `lc-*/` | Municipal laws (Leis and Leis Complementares), newest first | one each, as enacted (346) |
+| `lei-*/`, `lc-*/` | 350 municipal laws (Leis and Leis Complementares), including the history of LC 235/2023 | 351 versions: one as enacted per law, plus LC 235's later repeal version |
 
 **The Lei Orgânica with its history.** The Câmara's SAPL keeps the Lei Orgânica as a structured text with a view of the text in force for each period between amendments, so each amendment is a commit on the day its period starts, credited to the Emenda à Lei Orgânica that gave it.
 
-**Municipal laws, newest first.** Each law the Câmara's SAPL lists with a PDF that has a text layer of its own, as enacted, credited to itself. Laws are added in parts, working back in time; later amendments by other laws are not worked into earlier laws. Scans and laws that take effect on another day than their publication are left out.
+**Municipal laws and complementary-law history.** The record holds 350 municipal laws with 351 versions. Each law has an as-enacted version from the Câmara's SAPL PDF, credited to itself. LC 235/2023 also has a later version: LC 239/2024 repeals its articles 4 and 5. The official PDF preserves LC 235's original wording under strike-through and names the repealing law. Its two versions take effect on 20 November 2023 and 27 May 2024, respectively, using the publication dates and the laws' own commencement clauses. Other municipal laws remain as enacted; later amendments to them are not consolidated here. Scans and laws that take effect on another day than their publication are left out.
 
 State law is in [brazil-minas-gerais-law](https://github.com/lexifina/brazil-minas-gerais-law); federal law is in [brazil-law](https://github.com/lexifina/brazil-law).
 
